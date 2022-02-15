@@ -28,3 +28,4 @@ For the web scraping example, you will need to install the following libraries.
 >
 >pip install bs4
 
+You may run the example as a Python script or as a Jupyter Notebook
