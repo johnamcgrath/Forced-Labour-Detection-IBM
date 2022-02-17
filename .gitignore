@@ -130,3 +130,6 @@ dmypy.json
 
 # Pycharm folder
 .idea/
+
+# CSV files
+*.csv
