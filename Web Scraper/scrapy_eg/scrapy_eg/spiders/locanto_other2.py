@@ -3,6 +3,7 @@ from scrapy.linkextractors import LinkExtractor
 
 
 # run scrapy crawl locanto_other2 in the Forced-Labour-Detection-IBM\Web Scraper\scrapy_eg\scrapy_eg\spiders> folder
+# NOTE: delete csv file before running the spider
 class LocantoOtherSpider(CrawlSpider):
     name = "locanto_other2"  # unique identifier for the spider
     # allowed_domains = ["www.locanto.ie"]  # limits the crawl to this domain list
