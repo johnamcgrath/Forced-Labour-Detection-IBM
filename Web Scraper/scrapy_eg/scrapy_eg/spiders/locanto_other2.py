@@ -23,6 +23,8 @@ class LocantoOtherSpider(CrawlSpider):
         ad_id = ad_id.replace("Ad ID: ", "")
         ad_id = ad_id.replace("\n", "")
         desc = response.css("#js-user_content::text").get()  # extract the description
+        # NOTE: some ad descriptions are more complex and can't be extracted with this method
+        #       for example: ads with "About this position" header, in the description.
 
         #username = response.css(".vap_sidebox_username::text").get()  # extract the username
         #username = username.replace("\n", "")  # format username
