@@ -6,7 +6,6 @@ from scrapy.linkextractors import LinkExtractor
 # NOTE: delete csv file before running the spider
 class LocantoOtherSpider(CrawlSpider):
     name = "locanto_other2"  # unique identifier for the spider
-    # allowed_domains = ["www.locanto.ie"]  # limits the crawl to this domain list
     start_urls = ["https://www.locanto.ie/Other-Jobs/615/"]  # first url to crawl
     # Crawling rules
     rules = (
