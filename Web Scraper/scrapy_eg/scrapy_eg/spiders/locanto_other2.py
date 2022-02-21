@@ -1,6 +1,6 @@
-import scrapy
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
+
 
 # run scrapy crawl locanto_other2 in the Forced-Labour-Detection-IBM\Web Scraper\scrapy_eg\scrapy_eg\spiders> folder
 class LocantoOtherSpider(CrawlSpider):
@@ -22,14 +22,21 @@ class LocantoOtherSpider(CrawlSpider):
         ad_id = ad_id.replace("Ad ID: ", "")
         ad_id = ad_id.replace("\n", "")
         desc = response.css("#js-user_content::text").get()  # extract the description
-        username = response.css(".vap_sidebox_username::text").get()  # extract the username
-        username = username.replace("\n", "")  # format username
-        # phone number requires logged in account!
+
+        #username = response.css(".vap_sidebox_username::text").get()  # extract the username
+        #username = username.replace("\n", "")  # format username
+        # NOT ALL ADS HAVE A USERNAME
+
+        # extract the location
+        city = response.xpath("//div[@itemprop='address']/span[@itemprop='addressLocality']/text()").get()
+        country = response.xpath("//div[@itemprop='address']/span[@itemprop='addressCountry']/text()").get()
+
+        # PHONE NUMBER REQUIRES A LOGGED IN ACCOUNT
         yield {
             "title": title,
             "ad_id": ad_id,
             "desc": desc,
-            "username": username,
+            #"username": username,
+            "city": city,
+            "country": country,
         }
-
-
