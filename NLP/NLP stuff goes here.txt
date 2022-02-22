@@ -1,3 +1,6 @@
+NOTE: Please add documentation for NLP to the GitHub wiki:
+https://github.com/Zugidor/Forced-Labour-Detection-IBM/wiki/Natural-Language-Processing
+
 Installation
 #IBM Watson
 pip install --upgrade "ibm-watson>=5.3.0"
