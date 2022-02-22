@@ -85,8 +85,8 @@ AUTOTHROTTLE_TARGET_CONCURRENCY = 4.0
 # Enable and configure HTTP caching (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html#httpcache-middleware-settings
 # Allows for rapid iteration and spider testing without blasting the server with requests
-# HTTPCACHE_ENABLED = True
-# HTTPCACHE_EXPIRATION_SECS = 3600  # 1 hour
+HTTPCACHE_ENABLED = True
+HTTPCACHE_EXPIRATION_SECS = 60  # 1 minute
 # HTTPCACHE_DIR = 'httpcache'
 # HTTPCACHE_IGNORE_HTTP_CODES = []
 # HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
