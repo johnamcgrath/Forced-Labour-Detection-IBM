@@ -2,11 +2,11 @@ from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
 
 
-# run scrapy crawl locanto_other2 in the Forced-Labour-Detection-IBM\Web Scraper\scrapy_eg\scrapy_eg\spiders> folder
+# run `scrapy crawl locanto_other2` in the Forced-Labour-Detection-IBM\Web Scraper\scrapy_eg\scrapy_eg\spiders> folder
 # NOTE: delete csv file before running the spider
 class LocantoOtherSpider(CrawlSpider):
     name = "locanto_other2"  # unique identifier for the spider
-    start_urls = ["https://www.locanto.ie/Other-Jobs/615/"]  # first url to crawl
+    start_urls = ["https://www.locanto.ie/Other-Jobs/615/"]  # first url(s) to crawl
     # Crawling rules
     rules = (
         # use the parse() function on pages whose links match ".../ID_(number)/..." within the "entries" cs class
