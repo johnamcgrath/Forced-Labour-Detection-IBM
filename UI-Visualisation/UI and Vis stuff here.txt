@@ -1,0 +1,3 @@
+NOTE: Please add documentation for UI/Visualisation to the GitHub wiki:
+https://github.com/Zugidor/Forced-Labour-Detection-IBM/wiki/UI-&-Visualisation
+
