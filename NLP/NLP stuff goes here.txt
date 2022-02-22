@@ -4,3 +4,7 @@ pip install --upgrade "ibm-watson>=5.3.0"
 
 #dotenv for importing API key from .env
 pip install python-dotenv
+
+#API
+Download ibm-credentials.env from:
+https://cloud.ibm.com/services/natural-language-understanding/crn%3Av1%3Abluemix%3Apublic%3Anatural-language-understanding%3Aeu-gb%3Aa%2F4655807986ee4254b6ded6f0aae72dde%3Aef0a216e-c411-4286-a512-323c0a46064e%3A%3A?paneId=manage
