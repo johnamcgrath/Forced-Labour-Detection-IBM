@@ -1,0 +1,6 @@
+Installation
+#IBM Watson
+pip install --upgrade "ibm-watson>=5.3.0"
+
+#dotenv for importing API key from .env
+pip install python-dotenv
