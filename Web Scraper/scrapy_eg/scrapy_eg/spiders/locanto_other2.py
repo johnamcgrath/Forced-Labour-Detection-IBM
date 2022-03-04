@@ -21,7 +21,10 @@ class LocantoOtherSpider(CrawlSpider):
         # format ad id
         ad_id = ad_id.replace("Ad ID: ", "")
         ad_id = ad_id.replace("\n", "")
-        desc = response.css("#js-user_content::text").get()  # extract the description
+        desc = response.css(".user_content::text").extract()  # extract the description
+        desc = ''.join(desc)
+        desc = desc.replace("\n", "", 1) # removes the first line break, can remove the 1 to remove all line breaks and give one block of text
+
         # NOTE: some ad descriptions are more complex and can't be extracted with this method
         #       for example: ads with "About this position" header, in the description.
 
