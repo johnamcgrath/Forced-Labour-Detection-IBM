@@ -1,17 +1,19 @@
+import scrapy
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
 
+
 class LocantoOtherSpider(CrawlSpider):
     name = "locanto_other_pages"  # unique identifier for the spider
-    #allowed_domains = ["www.locanto.ie"]  # limits the crawl to this domain list
-    #start_urls = ["https://www.locanto.ie/Other-Jobs/615/"]  # first url to crawl
-    start_urls = ["https://www.locanto.ie/Hospitality-Tourism-Travel/622/"] # testing url to see limits
+    # allowed_domains = ["www.locanto.ie"]  # limits the crawl to this domain list
+    # start_urls = ["https://www.locanto.ie/Other-Jobs/615/"]  # first url to crawl
+    start_urls = ["https://www.locanto.ie/Hospitality-Tourism-Travel/622/"]  # testing url to see limits
 
     rules = (
         # use the parse() function on pages whose links match ".../ID_(number)/..." within the "entries" cs class
         # e.g. https://dublin.locanto.ie/ID_4964952094/Window-blinds-installer.html
         #       will match if it's in the list of entries on the page
-        #Rule(LinkExtractor(allow="Other-Jobs")),
+        # Rule(LinkExtractor(allow="Other-Jobs")),
         # restricting the pages it can move to, along with how it calls back
         Rule(LinkExtractor(allow="Hospitality-Tourism-Travel")),
         Rule(LinkExtractor(allow="ID_", restrict_css=".entries"), callback="parse"),
@@ -27,8 +29,8 @@ class LocantoOtherSpider(CrawlSpider):
         # NOTE: some ad descriptions are more complex and can't be extracted with this method
         #       for example: ads with "About this position" header, in the description.
 
-        #username = response.css(".vap_sidebox_username::text").get()  # extract the username
-        #username = username.replace("\n", "")  # format username
+        # username = response.css(".vap_sidebox_username::text").get()  # extract the username
+        # username = username.replace("\n", "")  # format username
         # NOT ALL ADS HAVE A USERNAME
 
         # extract the location
@@ -40,7 +42,7 @@ class LocantoOtherSpider(CrawlSpider):
             "title": title,
             "ad_id": ad_id,
             "desc": desc,
-            #"username": username,
+            # "username": username,
             "city": city,
             "country": country,
         }
