@@ -1,6 +1,7 @@
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
 import re
+# TODO: sort out text encoding errors (e.g. line 593: "?" and line 540: " " in scrapy_eg/locanto.csv)
 
 
 # run `scrapy crawl locanto_other2` in the Forced-Labour-Detection-IBM\Web Scraper\scrapy_eg\scrapy_eg\spiders> folder
