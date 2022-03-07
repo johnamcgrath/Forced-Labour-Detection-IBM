@@ -1,5 +1,6 @@
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
+import re
 
 
 # run `scrapy crawl locanto_other2` in the Forced-Labour-Detection-IBM\Web Scraper\scrapy_eg\scrapy_eg\spiders> folder
@@ -21,9 +22,9 @@ class LocantoOtherSpider(CrawlSpider):
         # format ad id
         ad_id = ad_id.replace("Ad ID: ", "")
         ad_id = ad_id.replace("\n", "")
-        desc = response.css(".user_content::text").extract()  # extract the description
-        desc = ''.join(desc)
-        desc = desc.replace("\n", "", 1) # removes the first line break, can remove the 1 to remove all line breaks and give one block of text
+        desc = response.xpath("//div[@itemprop='description']//text()").getall()  # extract the entire description
+        desc = " ".join(desc)  # join the description into a single string
+        desc = re.sub("\s+", " ", desc)  # remove extra whitespace
 
         # NOTE: some ad descriptions are more complex and can't be extracted with this method
         #       for example: ads with "About this position" header, in the description.
