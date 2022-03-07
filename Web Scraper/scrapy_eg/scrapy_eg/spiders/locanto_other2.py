@@ -7,12 +7,15 @@ import re
 # NOTE: delete csv file before running the spider
 class LocantoOtherSpider(CrawlSpider):
     name = "locanto_other2"  # unique identifier for the spider
-    start_urls = ["https://www.locanto.ie/Other-Jobs/615/"]  # first url(s) to crawl
+    #start_urls = ["https://www.locanto.ie/Other-Jobs/615/"]  # first url(s) to crawl
+    start_urls = ["https://www.locanto.ie/Hospitality-Tourism-Travel/622/"]
     # Crawling rules
     rules = (
         # use the parse() function on pages whose links match ".../ID_(number)/..." within the "entries" cs class
         # e.g. https://dublin.locanto.ie/ID_4964952094/Window-blinds-installer.html
         #       will match if it's in the list of entries on the page
+        #Rule(LinkExtractor(allow="Other-Jobs")),
+        Rule(LinkExtractor(allow="Hospitality-Tourism-Travel")),
         Rule(LinkExtractor(allow="ID_", restrict_css=".entries"), callback="parse"),
     )
 
@@ -25,6 +28,8 @@ class LocantoOtherSpider(CrawlSpider):
         desc = response.xpath("//div[@itemprop='description']//text()").getall()  # extract the entire description
         desc = " ".join(desc)  # join the description into a single string
         desc = re.sub("\s+", " ", desc)  # remove extra whitespace
+        desc = desc.replace("About the Position", "")  # remove the About the Position text
+        desc = desc.strip()  # remove leading and trailing whitespace
 
         # NOTE: some ad descriptions are more complex and can't be extracted with this method
         #       for example: ads with "About this position" header, in the description.
