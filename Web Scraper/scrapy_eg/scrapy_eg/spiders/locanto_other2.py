@@ -28,7 +28,7 @@ class LocantoOtherSpider(CrawlSpider):
 
         desc = response.xpath("//div[@itemprop='description']//text()").getall()  # extract the entire description
         desc = " ".join(desc)  # join the description into a single string
-        desc = desc.replace("â€™", "\'")
+        desc = desc.replace("â€™", "\'")  # fix the unicode apostrophe, to be safe
         desc = re.sub("\s+", " ", desc)  # remove extra whitespace
         desc = desc.replace("About the Position", "")  # remove the About the Position text
         desc = desc.replace(" ", " ")  # remove the " " character
