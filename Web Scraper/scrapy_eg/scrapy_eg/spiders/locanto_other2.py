@@ -32,7 +32,7 @@ class LocantoOtherSpider(CrawlSpider):
         desc = re.sub("\s+", " ", desc)  # remove extra whitespace
         desc = desc.replace("About the Position", "")  # remove the About the Position text
         desc = desc.replace(" ", " ")  # remove the " " character
-        desc = desc.encode("utf-8")  # convert to utf-8
+        desc = desc.encode("utf-8")  # convert to utf-8, just to be safe
         desc = desc.strip()  # remove leading and trailing whitespace
 
         # NOTE: some ad descriptions are more complex and can't be extracted with this method
