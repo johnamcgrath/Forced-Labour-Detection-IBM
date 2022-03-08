@@ -28,6 +28,7 @@ class LocantoOtherSpider(CrawlSpider):
         ad_id = ad_id.replace("\n", "")
         desc = response.xpath("//div[@itemprop='description']//text()").getall()  # extract the entire description
         desc = " ".join(desc)  # join the description into a single string
+        desc = desc.replace("â€™", "\'")
         desc = re.sub("\s+", " ", desc)  # remove extra whitespace
         desc = desc.replace("About the Position", "")  # remove the About the Position text
         desc = desc.strip()  # remove leading and trailing whitespace
