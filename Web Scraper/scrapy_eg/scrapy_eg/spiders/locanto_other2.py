@@ -1,7 +1,6 @@
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
 import re
-# TODO: sort out text encoding errors (e.g. line 593: "?" and line 540: " " in scrapy_eg/locanto.csv)
 
 
 # run `scrapy crawl locanto_other2` in the Forced-Labour-Detection-IBM\Web Scraper\scrapy_eg\scrapy_eg\spiders> folder
@@ -16,7 +15,7 @@ class LocantoOtherSpider(CrawlSpider):
         # e.g. https://dublin.locanto.ie/ID_4964952094/Window-blinds-installer.html
         #       will match if it's in the list of entries on the page
         #Rule(LinkExtractor(allow="Other-Jobs")),
-        Rule(LinkExtractor(allow="Hospitality-Tourism-Travel")),
+        Rule(LinkExtractor(allow="Hospitality-Tourism-Travel")),  # get all jobs in this section
         Rule(LinkExtractor(allow="ID_", restrict_css=".entries"), callback="parse"),
     )
 
@@ -26,11 +25,14 @@ class LocantoOtherSpider(CrawlSpider):
         # format ad id
         ad_id = ad_id.replace("Ad ID: ", "")
         ad_id = ad_id.replace("\n", "")
+
         desc = response.xpath("//div[@itemprop='description']//text()").getall()  # extract the entire description
         desc = " ".join(desc)  # join the description into a single string
         desc = desc.replace("â€™", "\'")
         desc = re.sub("\s+", " ", desc)  # remove extra whitespace
         desc = desc.replace("About the Position", "")  # remove the About the Position text
+        desc = desc.replace(" ", " ")  # remove the " " character
+        desc = desc.encode("utf-8")  # convert to utf-8
         desc = desc.strip()  # remove leading and trailing whitespace
 
         # NOTE: some ad descriptions are more complex and can't be extracted with this method
