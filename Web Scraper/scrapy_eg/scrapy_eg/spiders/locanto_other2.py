@@ -17,7 +17,7 @@ class LocantoOtherSpider(CrawlSpider):
         #Rule(LinkExtractor(allow="Other-Jobs")),
         Rule(LinkExtractor(allow="Hospitality-Tourism-Travel")),  # get all jobs in this section
         Rule(LinkExtractor(allow="ID_", restrict_css=".entries"), callback="parse"),
-    )
+    )  # TODO: stop from accessing m.locanto.ie/ and locanto.ie/run/mobile_redirect/ (mobile site)
 
     def parse(self, response):
         title = response.css(".header-text::text").get()  # extract the title
