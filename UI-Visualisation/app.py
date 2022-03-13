@@ -54,7 +54,7 @@ app.layout = html.Div(children=[
 
     html.Div([
 
-       html.Div(children='''
+        html.Div(children='''
             Below is a scatter plot.
         '''),
 
@@ -66,7 +66,5 @@ app.layout = html.Div(children=[
 
 ])
 
-
 if __name__ == '__main__':
     app.run_server(debug=True)
-
