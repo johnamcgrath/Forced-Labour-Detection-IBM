@@ -7,17 +7,22 @@ import re
 # NOTE: delete csv file before running the spider
 class LocantoOtherSpider(CrawlSpider):
     name = "locanto_other2"  # unique identifier for the spider
-    #start_urls = ["https://www.locanto.ie/Other-Jobs/615/"]  # first url(s) to crawl
+    #allowed_domains = ["www.locanto.ie"]  # limits the crawl to this domain list
+
+    # first url(s) to crawl
+    #start_urls = ["https://www.locanto.ie/Other-Jobs/615/"]
     start_urls = ["https://www.locanto.ie/Hospitality-Tourism-Travel/622/"]
     # Crawling rules
     rules = (
         # use the parse() function on pages whose links match ".../ID_(number)/..." within the "entries" cs class
         # e.g. https://dublin.locanto.ie/ID_4964952094/Window-blinds-installer.html
         #       will match if it's in the list of entries on the page
+
+        # get all jobs in this section
         #Rule(LinkExtractor(allow="Other-Jobs")),
-        Rule(LinkExtractor(allow="Hospitality-Tourism-Travel")),  # get all jobs in this section
-        Rule(LinkExtractor(allow="ID_", restrict_css=".entries"), callback="parse"),
-    )  # TODO: stop from accessing m.locanto.ie/ and locanto.ie/run/mobile_redirect/ (mobile site)
+        Rule(LinkExtractor(allow="locanto.ie/Hospitality-Tourism-Travel/622", deny=["m.locanto", "mobile_redirect"])),
+        Rule(LinkExtractor(allow="locanto.ie/ID_", restrict_css=".entries"), callback="parse"),
+    )
 
     def parse(self, response):
         title = response.css(".header-text::text").get()  # extract the title
