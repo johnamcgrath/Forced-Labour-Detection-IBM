@@ -20,7 +20,7 @@ FEED_URI = "locanto.csv"  # data output file
 FEED_EXPORT_ENCODING = 'utf-8'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-# USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36'
+USER_AGENT = 'scrapybot_TCD-IBM_Project (makarenm@tcd.ie)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -33,7 +33,7 @@ ROBOTSTXT_OBEY = True
 # See also autothrottle settings and docs
 # DOWNLOAD_DELAY = 0.25
 # The download delay setting will honor only one of:
-# CONCURRENT_REQUESTS_PER_DOMAIN = 1
+# CONCURRENT_REQUESTS_PER_DOMAIN = 1  # default: 8
 # CONCURRENT_REQUESTS_PER_IP = 1
 
 # Disable cookies (enabled by default)
@@ -77,18 +77,18 @@ COOKIES_ENABLED = False
 # AutoThrottle avoids scraper getting banned by DDoS protection
 AUTOTHROTTLE_ENABLED = True
 # The initial download delay
-AUTOTHROTTLE_START_DELAY = 5
+AUTOTHROTTLE_START_DELAY = 3
 # The maximum download delay to be set in case of high latencies
 AUTOTHROTTLE_MAX_DELAY = 60
 # The average number of requests Scrapy should be sending in parallel to each remote server
-AUTOTHROTTLE_TARGET_CONCURRENCY = 0.5
+AUTOTHROTTLE_TARGET_CONCURRENCY = 1
 # Enable showing throttling stats for every response received:
 AUTOTHROTTLE_DEBUG = False
 
 # Enable and configure HTTP caching (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html#httpcache-middleware-settings
 # Allows for rapid iteration and spider testing without blasting the server with requests
-HTTPCACHE_ENABLED = False
+HTTPCACHE_ENABLED = True
 HTTPCACHE_EXPIRATION_SECS = 3600  # 1 hour
 HTTPCACHE_DIR = 'httpcache'
 HTTPCACHE_IGNORE_HTTP_CODES = [403]
