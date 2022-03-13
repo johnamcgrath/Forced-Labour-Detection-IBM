@@ -89,7 +89,7 @@ AUTOTHROTTLE_DEBUG = False
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html#httpcache-middleware-settings
 # Allows for rapid iteration and spider testing without blasting the server with requests
 HTTPCACHE_ENABLED = True
-HTTPCACHE_EXPIRATION_SECS = 86400  # 1 day
+HTTPCACHE_EXPIRATION_SECS = 0  # never expires
 HTTPCACHE_DIR = 'httpcache'
 HTTPCACHE_IGNORE_HTTP_CODES = [403, 303]
 HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
