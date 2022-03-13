@@ -25,15 +25,15 @@ USER_AGENT = 'scrapybot_TCD-IBM_Project (makarenm@tcd.ie)'
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
 
-# Configure maximum concurrent requests performed by Scrapy (default: 16)
+# Configure maximum concurrent requests performed by Scrapy (default: 16), this is more important for us than target
 # CONCURRENT_REQUESTS = 1
 
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs
-# DOWNLOAD_DELAY = 0.25
+DOWNLOAD_DELAY = 0.25
 # The download delay setting will honor only one of:
-# CONCURRENT_REQUESTS_PER_DOMAIN = 1  # default: 8
+CONCURRENT_REQUESTS_PER_DOMAIN = 1  # default: 8
 # CONCURRENT_REQUESTS_PER_IP = 1
 
 # Disable cookies (enabled by default)
