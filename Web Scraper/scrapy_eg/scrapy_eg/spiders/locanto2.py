@@ -6,12 +6,9 @@ import re
 # run `scrapy crawl locanto_other2` in the Forced-Labour-Detection-IBM\Web Scraper\scrapy_eg\scrapy_eg\spiders> folder
 # NOTE: delete csv file before running the spider
 class LocantoOtherSpider(CrawlSpider):
-    name = "locanto_other2"  # unique identifier for the spider
+    name = "locanto2"  # unique identifier for the spider
     #allowed_domains = ["www.locanto.ie"]  # limits the crawl to this domain list
-
-    # first url(s) to crawl
-    #start_urls = ["https://www.locanto.ie/Other-Jobs/615/"]
-    start_urls = ["https://www.locanto.ie/Hospitality-Tourism-Travel/622/"]
+    start_urls = ["https://www.locanto.ie/Service/626/"]  # first url(s) to crawl
     # Crawling rules
     rules = (
         # use the parse() function on pages whose links match ".../ID_(number)/..." within the "entries" cs class
@@ -19,8 +16,7 @@ class LocantoOtherSpider(CrawlSpider):
         #       will match if it's in the list of entries on the page
 
         # get all jobs in this section
-        #Rule(LinkExtractor(allow="Other-Jobs")),
-        Rule(LinkExtractor(allow="locanto.ie/Hospitality-Tourism-Travel/622", deny=["m.locanto", "mobile_redirect"])),
+        Rule(LinkExtractor(allow="locanto.ie/Service/626/", deny=["m.locanto", "mobile_redirect"])),
         Rule(LinkExtractor(allow="locanto.ie/ID_", restrict_css=".entries"), callback="parse"),
     )
 
