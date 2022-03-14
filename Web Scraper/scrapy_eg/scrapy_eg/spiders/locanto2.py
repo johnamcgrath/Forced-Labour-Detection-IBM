@@ -7,7 +7,7 @@ import re
 # NOTE: delete csv file before running the spider
 class LocantoOtherSpider(CrawlSpider):
     name = "locanto2"  # unique identifier for the spider
-    #allowed_domains = ["www.locanto.ie"]  # limits the crawl to this domain list
+    # allowed_domains = ["www.locanto.ie"]  # limits the crawl to this domain list
     start_urls = ["https://www.locanto.ie/Service/626/"]  # first url(s) to crawl
     # Crawling rules
     rules = (
@@ -39,8 +39,8 @@ class LocantoOtherSpider(CrawlSpider):
         # NOTE: some ad descriptions are more complex and can't be extracted with this method
         #       for example: ads with "About this position" header, in the description.
 
-        #username = response.css(".vap_sidebox_username::text").get()  # extract the username
-        #username = username.replace("\n", "")  # format username
+        # username = response.css(".vap_sidebox_username::text").get()  # extract the username
+        # username = username.replace("\n", "")  # format username
         # NOT ALL ADS HAVE A USERNAME
 
         # extract the location
@@ -52,7 +52,7 @@ class LocantoOtherSpider(CrawlSpider):
             "title": title,
             "ad_id": ad_id,
             "desc": desc,
-            #"username": username,
+            # "username": username,
             "city": city,
             "country": country,
         }
