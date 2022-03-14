@@ -94,6 +94,7 @@ HTTPCACHE_DIR = 'httpcache'
 HTTPCACHE_IGNORE_HTTP_CODES = [403, 303]
 HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
+# Proxy rotation settings (scrapy-proxies package, PR/50)
 # DOWNLOADER_MIDDLEWARES = {
 #     'scrapy.downloadermiddlewares.retry.RetryMiddleware': 90,
 #     'scrapy_proxies.RandomProxy': 100,
