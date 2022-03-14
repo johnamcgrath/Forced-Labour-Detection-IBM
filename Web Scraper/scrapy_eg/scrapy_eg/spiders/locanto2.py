@@ -1,22 +1,23 @@
-import scrapy
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
+import re
 
 
+# run `scrapy crawl locanto_other2` in the Forced-Labour-Detection-IBM\Web Scraper\scrapy_eg\scrapy_eg\spiders> folder
+# NOTE: delete csv file before running the spider
 class LocantoOtherSpider(CrawlSpider):
-    name = "locanto_other_pages"  # unique identifier for the spider
+    name = "locanto2"  # unique identifier for the spider
     # allowed_domains = ["www.locanto.ie"]  # limits the crawl to this domain list
-    # start_urls = ["https://www.locanto.ie/Other-Jobs/615/"]  # first url to crawl
-    start_urls = ["https://www.locanto.ie/Hospitality-Tourism-Travel/622/"]  # testing url to see limits
-
+    start_urls = ["https://www.locanto.ie/Other-Jobs/615/"]  # first url(s) to crawl
+    # Crawling rules
     rules = (
         # use the parse() function on pages whose links match ".../ID_(number)/..." within the "entries" cs class
         # e.g. https://dublin.locanto.ie/ID_4964952094/Window-blinds-installer.html
         #       will match if it's in the list of entries on the page
-        # Rule(LinkExtractor(allow="Other-Jobs")),
-        # restricting the pages it can move to, along with how it calls back
-        Rule(LinkExtractor(allow="Hospitality-Tourism-Travel")),
-        Rule(LinkExtractor(allow="ID_", restrict_css=".entries"), callback="parse"),
+
+        # get all jobs in this section
+        Rule(LinkExtractor(allow="locanto.ie/Other-Jobs/615/", deny=["m.locanto", "mobile_redirect"])),
+        Rule(LinkExtractor(allow="locanto.ie/ID_", restrict_css=".entries"), callback="parse"),
     )
 
     def parse(self, response):
@@ -25,7 +26,16 @@ class LocantoOtherSpider(CrawlSpider):
         # format ad id
         ad_id = ad_id.replace("Ad ID: ", "")
         ad_id = ad_id.replace("\n", "")
-        desc = response.css("#js-user_content::text").get()  # extract the description
+
+        desc = response.xpath("//div[@itemprop='description']//text()").getall()  # extract the entire description
+        desc = " ".join(desc)  # join the description into a single string
+        desc = desc.replace("â€™", "\'")  # fix the unicode apostrophe, to be safe
+        desc = re.sub("\s+", " ", desc)  # remove extra whitespace
+        desc = desc.replace("About the Position", "")  # remove the About the Position text
+        desc = desc.replace(" ", " ")  # remove the " " character
+        desc = desc.encode("utf-8")  # convert to utf-8, just to be safe
+        desc = desc.strip()  # remove leading and trailing whitespace
+
         # NOTE: some ad descriptions are more complex and can't be extracted with this method
         #       for example: ads with "About this position" header, in the description.
 

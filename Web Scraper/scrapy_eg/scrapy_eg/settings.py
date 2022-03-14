@@ -14,7 +14,7 @@ NEWSPIDER_MODULE = 'scrapy_eg.spiders'
 
 # Export as CSV Feed
 FEED_FORMAT = "csv"  # data output format (CSV, JSON, XML)
-FEED_URI = "locanto.csv"  # data output file
+# FEED_URI = "locanto.csv"  # data output file
 
 # Feed encoding for the scraper
 FEED_EXPORT_ENCODING = 'utf-8'
@@ -25,8 +25,8 @@ USER_AGENT = 'scrapybot_TCD-IBM_StudentProject (makarenm@tcd.ie)'
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
 
-# Configure maximum concurrent requests performed by Scrapy (default: 16), this is more important for us than target
-# CONCURRENT_REQUESTS = 1
+# Configure maximum concurrent requests performed by Scrapy (default: 16)
+CONCURRENT_REQUESTS = 1
 
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
@@ -79,7 +79,7 @@ AUTOTHROTTLE_ENABLED = True
 # The initial download delay
 AUTOTHROTTLE_START_DELAY = 10
 # The maximum download delay to be set in case of high latencies
-AUTOTHROTTLE_MAX_DELAY = 60
+# AUTOTHROTTLE_MAX_DELAY = 60
 # The average number of requests Scrapy should be sending in parallel to each remote server
 AUTOTHROTTLE_TARGET_CONCURRENCY = 0.25
 # Enable showing throttling stats for every response received:
