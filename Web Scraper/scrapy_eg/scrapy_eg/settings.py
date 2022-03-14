@@ -14,13 +14,13 @@ NEWSPIDER_MODULE = 'scrapy_eg.spiders'
 
 # Export as CSV Feed
 FEED_FORMAT = "csv"  # data output format (CSV, JSON, XML)
-FEED_URI = "locanto.csv"  # data output file
+# FEED_URI = "locanto.csv"  # data output file
 
 # Feed encoding for the scraper
 FEED_EXPORT_ENCODING = 'utf-8'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-USER_AGENT = 'scrapybot_TCD-IBM_StudentProject (makarenm@tcd.ie)'
+# USER_AGENT = 'scrapybot_TCD-IBM_StudentProject (makarenm@tcd.ie)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
