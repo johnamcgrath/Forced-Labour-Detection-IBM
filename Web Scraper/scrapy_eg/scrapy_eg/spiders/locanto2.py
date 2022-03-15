@@ -8,7 +8,7 @@ import re
 class LocantoOtherSpider(CrawlSpider):
     name = "locanto2"  # unique identifier for the spider
     # allowed_domains = ["www.locanto.ie"]  # limits the crawl to this domain list
-    start_urls = ["https://www.locanto.ie/Other-Jobs/615/"]  # first url(s) to crawl
+    start_urls = ["https://www.locanto.ie/Customer-Service-Call-Centre/618/"]  # first url(s) to crawl
     # Crawling rules
     rules = (
         # use the parse() function on pages whose links match ".../ID_(number)/..." within the "entries" cs class
@@ -16,7 +16,7 @@ class LocantoOtherSpider(CrawlSpider):
         #       will match if it's in the list of entries on the page
 
         # get all jobs in this section
-        Rule(LinkExtractor(allow="locanto.ie/Other-Jobs/615/", deny=["m.locanto", "mobile_redirect"])),
+        Rule(LinkExtractor(allow="locanto.ie/Customer-Service-Call-Centre/618/", deny=["m.locanto", "mobile_redirect"])),
         Rule(LinkExtractor(allow="locanto.ie/ID_", restrict_css=".entries"), callback="parse"),
     )
 
