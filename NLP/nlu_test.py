@@ -10,14 +10,13 @@ from ibm_watson.natural_language_understanding_v1 import Features, EntitiesOptio
 load_dotenv('ibm-credentials.env')
 API_KEY = os.getenv('NATURAL_LANGUAGE_UNDERSTANDING_APIKEY')
 
-authenticator = IAMAuthenticator(API_KEY)
+authenticator = IAMAuthenticator('ju6xGZ4pSneWmpaxJXRhP495eikcEnl7a_LbrXskbmAR')
 natural_language_understanding = NaturalLanguageUnderstandingV1(
     version='2021-08-01',
     authenticator=authenticator
 )
 
-url = 'https://www.locanto.ie/Labour/606/'
-
+url = 'https://api.eu-gb.natural-language-understanding.watson.cloud.ibm.com/instances/ef0a216e-c411-4286-a512-323c0a46064e'
 natural_language_understanding.set_service_url(url)
 
 response = natural_language_understanding.analyze(
