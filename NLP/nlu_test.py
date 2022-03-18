@@ -10,7 +10,7 @@ from ibm_watson.natural_language_understanding_v1 import Features, EntitiesOptio
 load_dotenv('ibm-credentials.env')
 API_KEY = os.getenv('NATURAL_LANGUAGE_UNDERSTANDING_APIKEY')
 
-authenticator = IAMAuthenticator('ju6xGZ4pSneWmpaxJXRhP495eikcEnl7a_LbrXskbmAR')
+authenticator = IAMAuthenticator(API_KEY)
 natural_language_understanding = NaturalLanguageUnderstandingV1(
     version='2021-08-01',
     authenticator=authenticator
