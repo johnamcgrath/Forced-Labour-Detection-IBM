@@ -5,7 +5,7 @@ Dublin, Ireland
 Posted
 a week ago
 General operative wanted for role in recycling centre based in ringsend, good rate of pay for the suitable candidate, plesae call 0872286400
-Category: Other Jobspip install --upgrade "ibm-watson>=5.3.0"
+Category: Other Jobs
 
 
 young an to help on building
