@@ -1,0 +1,30 @@
+{
+  "ad_id": "5437650638",
+  "title": "Delivery Driver",
+  "industry": "hostpitality"
+  "country": {
+    "dest_country": "Ireland",
+    "orig_country": null
+  },
+  "risk_score": 0.7458942
+},
+{
+  "ad_id": "5447614723",
+  "title": "Commissioning and Technical Service Engineer",
+  "industry": "engineering"
+  "country": {
+    "dest_country": ["UK","Europe"],
+    "orig_country": "Ireland"
+  },
+  "risk_score": 0.4355517
+},
+{
+  "ad_id": "5448469356",
+  "title": "Assistant Chef / Cook",
+  "industry": "hospitality"
+  "country": {
+    "dest_country": "UK",
+    "orig_country": null
+  },
+  "risk_score": 0.8964114
+}
