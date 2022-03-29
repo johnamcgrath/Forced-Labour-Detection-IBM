@@ -1,9 +1,8 @@
 import json
-import dash
 from dash import html
-import plotly.graph_objects as go
 from dash import dcc
 import plotly.express as px
+import pandas as pd
 from dash import Dash
 from dash.dependencies import Input, Output
 from app import df
@@ -33,9 +32,8 @@ tab_selected_style = {
     'padding': '6px'
 }
 
-json_file_path = "nlp-output.json"
-with open(json_file_path) as f:
-    data = json.load(f)
+with open('nlp-output.json') as json_file:
+    data = json.load(json_file)
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
@@ -43,8 +41,16 @@ app = Dash(__name__, external_stylesheets=external_stylesheets)
 
 df = px.data.gapminder().query("year == 2007").query("continent == 'Europe'")
 df.loc[df['pop'] < 2.e6, 'country'] = 'Other countries'  # Represent only large countries
+figure = px.pie(df, values='pop', names='country', title='Population of European continent')
 
-figure=px.pie(df, values='pop', names='country', title='Population of European continent')
+risk_score = [i['risk_score'] for i in data["ads"]]
+ad_id = [i['ad_id'] for i in data["ads"]]
+df2 = pd.DataFrame({'ad id': ad_id, 'risk score': risk_score})
+fig2 = px.bar(df2, x="ad id", y="risk score")
+
+industry = [i['industry'] for i in data["ads"]]
+df3 = pd.DataFrame({'industry' : industry})
+
 
 app.layout = html.Div(style={'backgroundColor': colors['background']}, children=[
     html.H1('Human Trafficking - Job Advertisement', style={'color': colors['heading'], 'textAlign': 'center'}),
@@ -65,15 +71,8 @@ def render_content(tab):
             html.Div([
                 html.H5('Graph Example 1', style={'color': colors['tabBarColor'], 'textAlign': 'center'}),
                 dcc.Graph(id='g1',
-
-                          figure={'layout': {
-                              'plot_bgcolor': colors['graphColor'],
-                              'paper_bgcolor': colors['background'],
-                              'font': {
-                                  'color': colors['tabBarColor']
-                              }
-                          },
-                              'data': [{'y': [1, 2, 3], 'line': colors['tabBarColor']}]})
+                          figure=px.bar(df2,x = "ad id", y="risk score", title='Risk score Bar Chart', color = 'risk score', color_continuous_scale=px.colors.sequential.Viridis)
+                          )
             ], className="six columns"),
 
             html.Div([
@@ -83,33 +82,41 @@ def render_content(tab):
                           )
             ], className="six columns"),
 
+            html.H5('sp', style={'color': colors['background']}),
+
             dcc.DatePickerRange(
                 start_date_placeholder_text="Start Period",
                 end_date_placeholder_text="End Period",
                 calendar_orientation='vertical',
             ),
+            html.H3('       space    ', style={'color': colors['background']}),
+            html.H3('      space     ', style={'color': colors['background']}),
+            html.H3('     space      ', style={'color': colors['background']}),
+            html.H3('     space      ', style={'color': colors['background']}),
+            html.H3('   space        ', style={'color': colors['background']}),
+            html.H3('    space       ', style={'color': colors['background']}),
+            html.H3('     space      ', style={'color': colors['background']}),
+            html.H3('     space      ', style={'color': colors['background']}),
+            html.H3('       space    ', style={'color': colors['background']}),
+            html.H3('      space     ', style={'color': colors['background']}),
+            html.H3('     space      ', style={'color': colors['background']}),
+            html.H3('     space      ', style={'color': colors['background']}),
 
         ])
 
     elif tab == 'tab-2':
         return html.Div([
 
-            html.H5('Country', style={'color': colors['tabBarColor']}),
-            dcc.Dropdown(id='dropdown2',
-                         options=[
-                             {'label': 'United Kingdom', 'value': 'UK'},
-                             {'label': 'Ireland', 'value': 'I'},
-                         ],
-                         value='I'),
-            html.H3('           '),
-            html.H5('Industry', style={'color': colors['tabBarColor']}),
-            dcc.Dropdown(id='dropdown',
-                         options=[
-                             {'label': 'Hospitality', 'value': 'H'},
-                             {'label': 'Engineering', 'value': 'E'},
-                         ],
-                         value='H'),
-        ])
+            html.H5('sp', style={'color': colors['background']}),
+
+            dcc.Dropdown(df3.industry.unique(), id='pandas-dropdown-1'),
+            html.Div(id='pandas-output-container-1'),
+
+            html.H5('sp', style={'color': colors['background']}),
+
+            ]),
+
+
 
 
 if __name__ == '__main__':
