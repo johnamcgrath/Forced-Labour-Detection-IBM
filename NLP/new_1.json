@@ -1,0 +1,10621 @@
+{"ads": [
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 484,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Phone calls",
+      "relevance": 0.799542,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1165,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.747403,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 950,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Wicklow Heather Lodge Ltd T",
+      "relevance": 0.802638,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1433,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Delivery Driver An",
+      "relevance": 0.880747,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1147,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Delivery Lead",
+      "relevance": 0.888531,
+      "count": 4
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2656,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Project Management",
+      "relevance": 0.790339,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7059,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "new business models",
+      "relevance": 0.628695,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 452,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "busy property",
+      "relevance": 0.891133,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2380,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Senior Project Planner",
+      "relevance": 0.863039,
+      "count": 3
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2380,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Senior Project Planner",
+      "relevance": 0.863039,
+      "count": 3
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1206,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "oriented Program Manager",
+      "relevance": 0.70712,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 466,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Chef Job Excel Recruitment",
+      "relevance": 0.996592,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2581,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "work effort",
+      "relevance": 0.635729,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3282,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "exciting opportunity",
+      "relevance": 0.593554,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1611,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "key responsibilities",
+      "relevance": 0.661762,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2254,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Customer Service Officer",
+      "relevance": 0.753394,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3950,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "transformation projects",
+      "relevance": 0.709944,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2036,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Team Leader",
+      "relevance": 0.731093,
+      "count": 3
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 940,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Commis Chef",
+      "relevance": 0.750034,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4102,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "SAP API Management",
+      "relevance": 0.691615,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2197,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Hotel Date",
+      "relevance": 0.665538,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3654,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "service users",
+      "relevance": 0.612341,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1255,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "competitive salary",
+      "relevance": 0.758172,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5373,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "strong focus",
+      "relevance": 0.648284,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1107,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "competitive salary",
+      "relevance": 0.805223,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2980,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "beverage servicer",
+      "relevance": 0.617935,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1412,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "year preferredFood safety regulations",
+      "relevance": 0.634593,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1618,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "important experiences",
+      "relevance": 0.662038,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2319,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "work environment",
+      "relevance": 0.638915,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4087,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "SAP partners",
+      "relevance": 0.676574,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2732,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "highest standards",
+      "relevance": 0.66405,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1826,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Food Preparation",
+      "relevance": 0.635682,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1547,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "interpersonal skills",
+      "relevance": 0.684179,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 482,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "reopening of Confidential Kilternane",
+      "relevance": 0.83568,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 810,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "busy team",
+      "relevance": 0.763904,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1793,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Food Preparation",
+      "relevance": 0.637568,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1944,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "great opportunity",
+      "relevance": 0.785969,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1132,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Job Description Share Key Responsibilities",
+      "relevance": 0.7987,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1645,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Sous Chef",
+      "relevance": 0.743271,
+      "count": 3
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1148,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Chef de Partie Pastry",
+      "relevance": 0.696069,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1434,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "food purchasing",
+      "relevance": 0.805541,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3053,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "sales cycle Understand",
+      "relevance": 0.64482,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1260,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Main Purpose of the Job Assist",
+      "relevance": 0.840155,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 709,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "better place",
+      "relevance": 0.821483,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 996,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "National Craft CertificateDesirableAbility Skills",
+      "relevance": 0.671397,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1971,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Chef De Partie",
+      "relevance": 0.811214,
+      "count": 3
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2361,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "highest standards",
+      "relevance": 0.6702,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 906,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "permanent part time position",
+      "relevance": 0.902249,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1297,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "high quality dishes",
+      "relevance": 0.69323,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2191,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "wider School of Natural Sciences",
+      "relevance": 0.654857,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2354,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "last number of years",
+      "relevance": 0.659119,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 796,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Full time pizza chef",
+      "relevance": 0.771316,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1614,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "excellent customer care",
+      "relevance": 0.704046,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1614,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "excellent customer care",
+      "relevance": 0.704046,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 557,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Excellent terms",
+      "relevance": 0.795312,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2905,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "number of Kitchen Porters",
+      "relevance": 0.639982,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1231,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "food items",
+      "relevance": 0.714585,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1052,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Full time gastropub head chef",
+      "relevance": 0.77059,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 496,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "senior baker viennois",
+      "relevance": 0.796021,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2101,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "successful candidate",
+      "relevance": 0.695375,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1821,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "work environment",
+      "relevance": 0.733973,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 639,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Full Time Accommodation Assistant",
+      "relevance": 0.904742,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2138,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "successful candidate",
+      "relevance": 0.696808,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3380,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ambient cell transfer research tasks",
+      "relevance": 0.67973,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1432,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "exceptional standard of customer careTo",
+      "relevance": 0.675824,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 492,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Rentokil Initial family",
+      "relevance": 0.933767,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 773,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "pastry dishes",
+      "relevance": 0.759524,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1039,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Assist Head Chef",
+      "relevance": 0.715195,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 897,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ideal candidate",
+      "relevance": 0.791989,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2572,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Restaurant Manager",
+      "relevance": 0.712943,
+      "count": 3
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1773,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Fine Dining Restaurant Date",
+      "relevance": 0.654233,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2376,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Chefs of All Grades",
+      "relevance": 0.822665,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1638,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Head Pizza Chef",
+      "relevance": 0.817955,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 762,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "experienced baristas",
+      "relevance": 0.697966,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 922,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Pastry Chef",
+      "relevance": 0.774415,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 959,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "flexible working week",
+      "relevance": 0.659455,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 884,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.843415,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 587,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kozzys Barber Shop",
+      "relevance": 0.839754,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 699,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Full time kitchen porter",
+      "relevance": 0.763753,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 658,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "years min experience",
+      "relevance": 0.76826,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2945,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Political Science",
+      "relevance": 0.706512,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2496,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Glenlo Abbey HoteI",
+      "relevance": 0.689703,
+      "count": 3
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1612,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "individual sales targetsr",
+      "relevance": 0.645983,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3168,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "international recognition",
+      "relevance": 0.627792,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1569,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Chef De PartieLooking",
+      "relevance": 0.858562,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 895,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "incl Leaving Certificate",
+      "relevance": 0.776181,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 870,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "incl Leaving Certificate",
+      "relevance": 0.780568,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1027,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "passionate Chef de Partie",
+      "relevance": 0.710803,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 805,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Share Duties",
+      "relevance": 0.736878,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 725,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Share Ability",
+      "relevance": 0.863385,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1847,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "experienced Chef de Partie",
+      "relevance": 0.658536,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2220,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "School of Political Science",
+      "relevance": 0.662974,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2220,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "School of Political Science",
+      "relevance": 0.662974,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2030,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "successful candidate",
+      "relevance": 0.695005,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2295,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "General Manager",
+      "relevance": 0.760128,
+      "count": 4
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2598,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "General Manager",
+      "relevance": 0.70833,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2620,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Operations Manager",
+      "relevance": 0.809897,
+      "count": 5
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2290,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "General Manager",
+      "relevance": 0.753139,
+      "count": 4
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2347,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Restaurant Head Chef",
+      "relevance": 0.682886,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2346,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Restaurant Sous Chef",
+      "relevance": 0.680172,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2569,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "General Manager",
+      "relevance": 0.747164,
+      "count": 3
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3851,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Sales AdvisorLocation",
+      "relevance": 0.700827,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5343,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "SAP partners",
+      "relevance": 0.649501,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5539,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "strong focus",
+      "relevance": 0.643969,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4437,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Customer Delivery RepresentativeLocation",
+      "relevance": 0.732567,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 442,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Breakfast Chef",
+      "relevance": 0.956639,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 835,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Range of responsibilities",
+      "relevance": 0.899738,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 906,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Chef de Partie",
+      "relevance": 0.759162,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3410,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "New Product Development Programs",
+      "relevance": 0.613291,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 938,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "resident activity assessments",
+      "relevance": 0.808752,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1618,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "important experiences",
+      "relevance": 0.662038,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 969,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "strong work ethic",
+      "relevance": 0.837873,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1762,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Pastry Chef",
+      "relevance": 0.765163,
+      "count": 3
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3086,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "wellbeing checks",
+      "relevance": 0.602804,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1388,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "great work environment",
+      "relevance": 0.746326,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5276,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "strong focus",
+      "relevance": 0.653988,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 470,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Description Field Sales opportunities",
+      "relevance": 0.883405,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1257,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Primary duties",
+      "relevance": 0.674847,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1989,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "customer service",
+      "relevance": 0.690254,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1411,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "leading healthcare services provider",
+      "relevance": 0.786264,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 885,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ideal candidate",
+      "relevance": 0.869008,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1407,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "kitchen standard",
+      "relevance": 0.70313,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 648,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Excellent salary",
+      "relevance": 0.847115,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1694,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "important experiences",
+      "relevance": 0.654604,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1289,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "four-hour shift",
+      "relevance": 0.737485,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 476,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Description Confectionery Merchandiser Galway",
+      "relevance": 0.964023,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2835,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "new appointee",
+      "relevance": 0.707752,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1496,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "sa bit",
+      "relevance": 0.704937,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1503,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "strong understanding of fresh ingredients",
+      "relevance": 0.613401,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 728,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "D\u00fan Laoghaire",
+      "relevance": 0.673794,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1858,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Guest Services Manager",
+      "relevance": 0.719527,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1569,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "monitoring of portions of meals",
+      "relevance": 0.597337,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4409,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "part of the Shiseido Group",
+      "relevance": 0.754575,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1221,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "fast paced restaurantet",
+      "relevance": 0.652406,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1512,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "food items",
+      "relevance": 0.729646,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1801,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "working teams",
+      "relevance": 0.704039,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1610,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "safety procedures",
+      "relevance": 0.648268,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2671,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "CQV Lead",
+      "relevance": 0.681237,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 545,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "full time Commis chef amd",
+      "relevance": 0.98472,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1496,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "sa bit",
+      "relevance": 0.704937,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2782,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "linen stock levels",
+      "relevance": 0.652604,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 441,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "daily rate",
+      "relevance": 0.913482,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5176,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Associate Delivery Manager",
+      "relevance": 0.613769,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 455,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ashford Castle",
+      "relevance": 0.960479,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 457,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ROLE Aramark Food Services",
+      "relevance": 0.902778,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7177,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "entire project lifecycle",
+      "relevance": 0.605815,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1315,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Commis Chef",
+      "relevance": 0.688566,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 443,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Breakfast Chef",
+      "relevance": 0.956639,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1173,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Front Office",
+      "relevance": 0.72954,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 854,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Good interpersonal skills",
+      "relevance": 0.767836,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1140,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Front Office",
+      "relevance": 0.745403,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2318,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Cinema Host role",
+      "relevance": 0.677579,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 486,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "part time",
+      "relevance": 0.715672,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1323,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "experienced Mechanical Commissioning Engineer",
+      "relevance": 0.784283,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1594,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "COLONEL\u2019S FOOTSTEPS",
+      "relevance": 0.649082,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 465,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Junior Pizza Chef",
+      "relevance": 0.830134,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6459,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Technical Server Support Engineer",
+      "relevance": 0.615412,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2732,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "required commissioning documentation",
+      "relevance": 0.70544,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3239,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Dalata Development Programmes",
+      "relevance": 0.705074,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1190,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "job Join Deliveroo",
+      "relevance": 0.733613,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1495,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "sa bit",
+      "relevance": 0.704937,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2712,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Chef De Partie Looking",
+      "relevance": 0.803145,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1190,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "job Join Deliveroo",
+      "relevance": 0.733613,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2391,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Commis Chef Looking",
+      "relevance": 0.680397,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 470,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Excel Recruitment",
+      "relevance": 0.951913,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7951,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "delivery of change",
+      "relevance": 0.632938,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1015,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "passionate Chef de Partie",
+      "relevance": 0.707884,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1998,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "experienced Service Delivery Manager",
+      "relevance": 0.736933,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 816,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "leading Electricity Service Provider",
+      "relevance": 0.764701,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1600,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Staffline Recruitment",
+      "relevance": 0.666081,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 625,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Mahima Restaurant Ltd T",
+      "relevance": 0.756219,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1413,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "great work environment",
+      "relevance": 0.746794,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2030,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "team of Supervisors",
+      "relevance": 0.699073,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 798,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "large Data Centre Project",
+      "relevance": 0.781878,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1861,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "food production area",
+      "relevance": 0.811197,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2031,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Mechanical Commissioning ManagerData Centre Project",
+      "relevance": 0.826461,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1232,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.730356,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2320,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Cinema Host role",
+      "relevance": 0.677579,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1703,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Senior Bar StaffAn",
+      "relevance": 0.630619,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 955,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.792246,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 704,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Full time Chef de Partie",
+      "relevance": 0.768512,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2456,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "essentialHigh standard of food hygiene",
+      "relevance": 0.629105,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2455,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "high-quality",
+      "relevance": 0.686507,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1008,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "bank holiday working",
+      "relevance": 0.713855,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2212,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "customer service skillsr",
+      "relevance": 0.695176,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1139,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "exceptional standard of customer careTo",
+      "relevance": 0.685974,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1998,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "experienced Service Delivery Manager",
+      "relevance": 0.736933,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 748,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Giraffe Childcare Adamstown",
+      "relevance": 0.826639,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1998,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "experienced Service Delivery Manager",
+      "relevance": 0.736933,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2321,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "valid work permit",
+      "relevance": 0.64529,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3581,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "work areasr",
+      "relevance": 0.737869,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1273,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.747499,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1165,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "team member",
+      "relevance": 0.71057,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1346,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "EUROSPAR Barnhall",
+      "relevance": 0.668142,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 517,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Share P&E",
+      "relevance": 0.842961,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3032,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "benefits portalEmployee support service",
+      "relevance": 0.611848,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1180,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Commis Chef",
+      "relevance": 0.77872,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3904,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Technical Server Support EngineerJob Description",
+      "relevance": 0.641833,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1407,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Chef de Partie",
+      "relevance": 0.763365,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4237,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "remote technical support",
+      "relevance": 0.658018,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1955,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Courtneys of Lucan",
+      "relevance": 0.62461,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2619,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "phone number",
+      "relevance": 0.655752,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2026,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "dynamic Bar managerhe position",
+      "relevance": 0.700029,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1300,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "available Free Parking Requirements",
+      "relevance": 0.662567,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3182,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Job Description",
+      "relevance": 0.66356,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1831,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "work attitude",
+      "relevance": 0.663284,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4823,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "new business models",
+      "relevance": 0.705906,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 883,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Amazon Delivery Service Partner",
+      "relevance": 0.697734,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1613,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "initiative available Requirements",
+      "relevance": 0.649275,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1293,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "customer needs",
+      "relevance": 0.642331,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7243,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "guidance of the C&Q Leader",
+      "relevance": 0.635173,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2590,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "service maintenance work",
+      "relevance": 0.637564,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2637,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "customer locations",
+      "relevance": 0.620046,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 795,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Nila Restaurant Confidential T",
+      "relevance": 0.693232,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2039,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "General Manager",
+      "relevance": 0.824952,
+      "count": 4
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1300,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "fantastic opportunity",
+      "relevance": 0.649853,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2009,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Position RequirementsQuite",
+      "relevance": 0.644482,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7337,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "employee satisfaction",
+      "relevance": 0.600769,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1512,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Ideal Candidate",
+      "relevance": 0.673532,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7337,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "employee satisfaction",
+      "relevance": 0.600769,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3478,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "N Marriott's Autograph Collection",
+      "relevance": 0.666088,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1899,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "team of chefs",
+      "relevance": 0.778682,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4216,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "strong experience",
+      "relevance": 0.637525,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1465,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Position RequirementsQuite",
+      "relevance": 0.872156,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3027,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Posting Date Aug",
+      "relevance": 0.608588,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2905,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Posting Date Aug",
+      "relevance": 0.602909,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3524,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "innovative guest experiences",
+      "relevance": 0.606301,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2926,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Posting Date Oct",
+      "relevance": 0.601003,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4885,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "wonderful team",
+      "relevance": 0.596229,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1528,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Position RequirementsQuite",
+      "relevance": 0.812714,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 932,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.795646,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 575,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Share Chefs",
+      "relevance": 0.819587,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2926,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Posting Date Oct",
+      "relevance": 0.601003,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1190,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "job Join Deliveroo",
+      "relevance": 0.733613,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1190,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "job Join Deliveroo",
+      "relevance": 0.733613,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 811,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "experienced F&B Operations manager",
+      "relevance": 0.834971,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 766,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "experienced Senior Duty Manager",
+      "relevance": 0.832445,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1574,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "core values",
+      "relevance": 0.821643,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2643,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "high levels of customer satisfaction",
+      "relevance": 0.5918,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 473,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Mechanical Commissioning Manager",
+      "relevance": 0.908021,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 468,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Hotel Manager",
+      "relevance": 0.889375,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2346,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "existing Coffee Shops",
+      "relevance": 0.70868,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2162,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Hotel Date",
+      "relevance": 0.698514,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3612,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "fluent EnglishWhy Work",
+      "relevance": 0.695049,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3257,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "hard work",
+      "relevance": 0.714302,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 512,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Career Level",
+      "relevance": 0.88641,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2447,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Deputy General Manager",
+      "relevance": 0.725419,
+      "count": 5
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1997,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Duties Barretstown BackgroundBarretstown",
+      "relevance": 0.727726,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1594,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "COLONEL\u2019S FOOTSTEPS",
+      "relevance": 0.649082,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2883,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "culinary concept research",
+      "relevance": 0.643224,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 919,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "experienced F&B Operations manager",
+      "relevance": 0.819435,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3068,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Service Delivery Manager role",
+      "relevance": 0.699927,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6049,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "work of mechanical systems Awareness",
+      "relevance": 0.678022,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1486,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Strong kitchen management skills",
+      "relevance": 0.745077,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5939,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "work of electrical systemsHNC",
+      "relevance": 0.684339,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2324,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Executive Sous Chef",
+      "relevance": 0.656099,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 356,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "excellent family company",
+      "relevance": 0.982261,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2243,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Hotel Date",
+      "relevance": 0.659398,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1944,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "great opportunity",
+      "relevance": 0.785969,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2300,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "successful candidate",
+      "relevance": 0.639556,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2628,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "next chapter of the Carton House story",
+      "relevance": 0.679409,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1984,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "next chapter of the Carton House story",
+      "relevance": 0.735844,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1672,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Valid work permits",
+      "relevance": 0.664886,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1335,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Candidate Requirements",
+      "relevance": 0.898281,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 891,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Senior Duty Manager",
+      "relevance": 0.909824,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1984,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "next chapter of the Carton House story",
+      "relevance": 0.735844,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1495,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "sa bit",
+      "relevance": 0.704937,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1710,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "culinary team",
+      "relevance": 0.809648,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1495,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "sa bit",
+      "relevance": 0.704937,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1904,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "excellent Food",
+      "relevance": 0.810039,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1594,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "COLONEL\u2019S FOOTSTEPS",
+      "relevance": 0.649082,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1190,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "job Join Deliveroo",
+      "relevance": 0.733613,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1607,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Crew Member",
+      "relevance": 0.727753,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3716,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "hard work",
+      "relevance": 0.652114,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1632,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Crew Member",
+      "relevance": 0.727746,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1298,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "new companyoffers",
+      "relevance": 0.722668,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1549,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Position RequirementsQuite",
+      "relevance": 0.79975,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1938,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "new role",
+      "relevance": 0.682961,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3032,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "benefits portalEmployee support service",
+      "relevance": 0.611848,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 443,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "required food saftey certificationp",
+      "relevance": 0.910686,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 836,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.821198,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 772,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Share Waiter",
+      "relevance": 0.720483,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 785,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.824313,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 527,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Lady Gregory Gort",
+      "relevance": 0.885291,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1177,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "strong cost management ability",
+      "relevance": 0.710041,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 884,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "head chef",
+      "relevance": 0.796321,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 470,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Excel Recruitment",
+      "relevance": 0.951913,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 469,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Chef Recruiters",
+      "relevance": 0.96869,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 469,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Donnybrook Fair Malahide",
+      "relevance": 0.951307,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 466,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Chef Manager",
+      "relevance": 0.998382,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 469,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "clear path",
+      "relevance": 0.931516,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 570,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Complete Laboratory Solutions CLS",
+      "relevance": 0.90362,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 469,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "daytime hours",
+      "relevance": 0.928065,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2459,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Team Horizon",
+      "relevance": 0.735409,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1246,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "customer needs",
+      "relevance": 0.64695,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1433,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Head Chef",
+      "relevance": 0.90718,
+      "count": 4
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 637,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Gary's Gourmet Pizza",
+      "relevance": 0.864686,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1046,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.762553,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3175,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "food items",
+      "relevance": 0.626621,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2308,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Field Sales Account Manager",
+      "relevance": 0.781376,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 731,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "own Franchisebr",
+      "relevance": 0.691346,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4053,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "customer base",
+      "relevance": 0.714024,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2930,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "iconic four-star Grand Hotel Dublin",
+      "relevance": 0.74393,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3947,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Accurate handling of payments",
+      "relevance": 0.615683,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1944,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "great opportunity",
+      "relevance": 0.785969,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1113,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.757244,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1113,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.757244,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1556,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "kitchen staff",
+      "relevance": 0.708518,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1218,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "professional Chef de Partie",
+      "relevance": 0.703406,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1594,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "COLONEL\u2019S FOOTSTEPS",
+      "relevance": 0.649082,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3508,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Good knowledge of wine selection",
+      "relevance": 0.616204,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3384,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "influence others",
+      "relevance": 0.628115,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2375,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Domino'sThis",
+      "relevance": 0.788378,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2620,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "food items",
+      "relevance": 0.642068,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2125,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "excellent opportunity",
+      "relevance": 0.883819,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6305,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Beverage Manager",
+      "relevance": 0.608005,
+      "count": 3
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6857,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Beverage Manager",
+      "relevance": 0.607378,
+      "count": 3
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1795,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Chef de Partie",
+      "relevance": 0.707097,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2464,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Leisure Club Supervisor",
+      "relevance": 0.625385,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1349,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "great work environment",
+      "relevance": 0.755785,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7243,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "guidance of the C&Q Leader",
+      "relevance": 0.635173,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2531,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "full meet",
+      "relevance": 0.615853,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1015,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "interpersonal skillsAvailable full time Thur",
+      "relevance": 0.762354,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3032,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "benefits portalEmployee support service",
+      "relevance": 0.611848,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1072,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "competitive salary",
+      "relevance": 0.813353,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 544,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Career Level",
+      "relevance": 0.908355,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1171,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "competitive salary",
+      "relevance": 0.762937,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1526,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Commis Chef",
+      "relevance": 0.756834,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1503,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "incl Leaving Certificate",
+      "relevance": 0.663189,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1141,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "competitive salary",
+      "relevance": 0.785636,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 498,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Job Description Share",
+      "relevance": 0.815936,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4409,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "part of the Shiseido Group",
+      "relevance": 0.754575,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1251,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "competitive salary",
+      "relevance": 0.752943,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 482,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "speciality coffeeExperiences Barista positions",
+      "relevance": 0.81168,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 9684,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "great VP of Global Product Delivery",
+      "relevance": 0.591389,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1670,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "highest standards of service",
+      "relevance": 0.693548,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2935,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "unique role",
+      "relevance": 0.741217,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1496,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "sa bit",
+      "relevance": 0.704937,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3310,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Solution Delivery Manager Location",
+      "relevance": 0.701549,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 798,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Share Oakview Hospitality Confidential trading",
+      "relevance": 0.770457,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1166,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "kitchen staffMaintain records of payroll",
+      "relevance": 0.656633,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2373,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "good food",
+      "relevance": 0.643205,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1384,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "great work environment",
+      "relevance": 0.751877,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1190,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "job Join Deliveroo",
+      "relevance": 0.733613,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2087,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Executive Chef",
+      "relevance": 0.669007,
+      "count": 3
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1190,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "job Join Deliveroo",
+      "relevance": 0.733613,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4171,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Customer Service",
+      "relevance": 0.629939,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3545,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Wooden Pestle Bar",
+      "relevance": 0.660039,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 914,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.812333,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 553,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "successful candidate",
+      "relevance": 0.936435,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1026,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.764068,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 980,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "passionate Chef de Partie",
+      "relevance": 0.731267,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 484,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "enthusiastic bar staff",
+      "relevance": 0.761601,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 462,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ideal candidate",
+      "relevance": 0.977713,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 976,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "passionate Chef de Partie",
+      "relevance": 0.73089,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1612,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "individual sales targetsr",
+      "relevance": 0.650942,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 997,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.809099,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 968,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "prior experience",
+      "relevance": 0.712104,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2516,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Moorings Restaurant",
+      "relevance": 0.668913,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2682,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Moorings Restaurant",
+      "relevance": 0.661787,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2427,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Moorings Restaurant",
+      "relevance": 0.684545,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2176,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "excellent customer service",
+      "relevance": 0.591704,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3445,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "customer service team",
+      "relevance": 0.614571,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2416,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Base Salary",
+      "relevance": 0.701745,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3488,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "use work",
+      "relevance": 0.694037,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1085,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "part of the Porters Teamhis role",
+      "relevance": 0.721229,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4034,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "New Role",
+      "relevance": 0.630431,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1356,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Star Muckross Park Hotel",
+      "relevance": 0.644317,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2445,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "high levels of food preparation",
+      "relevance": 0.626127,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 916,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Clean food preparation areas",
+      "relevance": 0.696974,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1068,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "local Intreo Centrer",
+      "relevance": 0.749937,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 808,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.829644,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 820,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Schedule cleaning of equipment eg ovens",
+      "relevance": 0.725941,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1997,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "kitchen team",
+      "relevance": 0.673691,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1201,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "restaurant patronsKnowledge of cocktails",
+      "relevance": 0.682673,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1243,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.743412,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 776,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.829759,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 636,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "communication skillsNumerical abilitiesThe ability",
+      "relevance": 0.817882,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1418,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "safety of our team",
+      "relevance": 0.683591,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1519,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "exceptional customer service skills",
+      "relevance": 0.76015,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2731,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Doyle CollectionThe Doyle Collection",
+      "relevance": 0.691666,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2799,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Doyle CollectionThe Doyle Collection",
+      "relevance": 0.676245,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2859,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Doyle CollectionThe Doyle Collection",
+      "relevance": 0.755181,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 755,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "exceptional customer service skills",
+      "relevance": 0.838186,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1811,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kitchen Porter",
+      "relevance": 0.732463,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 493,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Job DescriptionGriffin's Bar",
+      "relevance": 0.872626,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2860,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Doyle CollectionThe Doyle Collection",
+      "relevance": 0.696786,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1320,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "service station",
+      "relevance": 0.748644,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3590,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "successful technical delivery lead",
+      "relevance": 0.788937,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1427,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "strong work ethic",
+      "relevance": 0.708375,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1616,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "exceptional customer service skills",
+      "relevance": 0.717029,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2096,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "high quality",
+      "relevance": 0.721337,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1890,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "similar role",
+      "relevance": 0.681809,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1981,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Hotel Date",
+      "relevance": 0.695121,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2464,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Commis ChefYou work",
+      "relevance": 0.635745,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 468,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Main Duties",
+      "relevance": 0.85476,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1384,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "great work environment",
+      "relevance": 0.751877,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2373,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Chefs of All Grades",
+      "relevance": 0.822665,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 479,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Description Sales",
+      "relevance": 0.896933,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4581,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jurys Inn",
+      "relevance": 0.663188,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 476,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Door Fundraiser Concern",
+      "relevance": 0.884627,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2626,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Oak Room",
+      "relevance": 0.752292,
+      "count": 3
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2504,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "high quality support services",
+      "relevance": 0.722284,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 781,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Director of Rooms",
+      "relevance": 0.847496,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1276,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "experienced Bar Manager",
+      "relevance": 0.827378,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 477,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Main purpose of the role",
+      "relevance": 0.954309,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 785,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "excellent opportunity",
+      "relevance": 0.752102,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2415,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Sous Chef",
+      "relevance": 0.77323,
+      "count": 3
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4806,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "global team members",
+      "relevance": 0.647618,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2995,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "agreed company standards",
+      "relevance": 0.665839,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5256,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Job Description",
+      "relevance": 0.640077,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1873,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Bachelor's degree",
+      "relevance": 0.653589,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2589,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "employed Delivery Driver",
+      "relevance": 0.78389,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1394,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "hour shift",
+      "relevance": 0.799853,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2589,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "employed Delivery Driver",
+      "relevance": 0.78389,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2799,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Doyle CollectionThe Doyle Collection",
+      "relevance": 0.76074,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2895,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Doyle CollectionThe Doyle Collection",
+      "relevance": 0.726468,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1718,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "digital media",
+      "relevance": 0.616177,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2589,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "employed Delivery Driver",
+      "relevance": 0.78389,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2589,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "employed Delivery Driver",
+      "relevance": 0.78389,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5031,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "collaborative work culture",
+      "relevance": 0.657272,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2589,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "employed Delivery Driver",
+      "relevance": 0.78389,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2856,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Doyle CollectionThe Doyle Collection",
+      "relevance": 0.762158,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1281,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "excellent opportunity",
+      "relevance": 0.958027,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3032,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "benefits portalEmployee support service",
+      "relevance": 0.611848,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 954,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "heat sources",
+      "relevance": 0.637168,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1691,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "food production area",
+      "relevance": 0.838822,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1915,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Events Coordinator",
+      "relevance": 0.662696,
+      "count": 5
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2010,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Executive Sous Chef",
+      "relevance": 0.707153,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5292,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Service DeliveryDell Technologies customers",
+      "relevance": 0.627103,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1531,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Job Responsibilities Arrange cuts of meat",
+      "relevance": 0.817953,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 856,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Part Time",
+      "relevance": 0.71562,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 955,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "food items",
+      "relevance": 0.761972,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1903,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "full knowledge of standard policies",
+      "relevance": 0.645312,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3695,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "event security",
+      "relevance": 0.637139,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2683,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "fantastic opportunity",
+      "relevance": 0.649666,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2589,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "employed Delivery Driver",
+      "relevance": 0.78389,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4584,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "courteous service",
+      "relevance": 0.631317,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2447,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "courteous service",
+      "relevance": 0.644834,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 481,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Good communication skills",
+      "relevance": 0.850618,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 862,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "management team of this stunning property",
+      "relevance": 0.906023,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 463,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Catering Services Manager Unijobs",
+      "relevance": 0.974155,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 932,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Hospitality Recruitment",
+      "relevance": 0.799753,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5799,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "innovative financial services",
+      "relevance": 0.633921,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2304,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Hotel Date",
+      "relevance": 0.671143,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 948,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Years experience",
+      "relevance": 0.703956,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1315,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "genuine love of good food",
+      "relevance": 0.700553,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 937,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.825529,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1022,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "prior experience",
+      "relevance": 0.697524,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2024,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "great opening",
+      "relevance": 0.627131,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2355,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "existing Coffee Shops",
+      "relevance": 0.707375,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 778,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Sous Chef Asian Cuisine",
+      "relevance": 0.812487,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2380,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "experienced Service Delivery Director",
+      "relevance": 0.794229,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2371,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "cash register",
+      "relevance": 0.673803,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2857,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Bar Manager",
+      "relevance": 0.712307,
+      "count": 3
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1924,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kitchen Porter",
+      "relevance": 0.769904,
+      "count": 3
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2380,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "experienced Service Delivery Director",
+      "relevance": 0.794229,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4287,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "part of the Shiseido Group",
+      "relevance": 0.757227,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3721,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "event security",
+      "relevance": 0.638387,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1691,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "food production area",
+      "relevance": 0.838822,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 954,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "heat sources",
+      "relevance": 0.637168,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1472,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Job ResponsibilitiesArrange cuts of meat",
+      "relevance": 0.83679,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2772,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "beverage lineup",
+      "relevance": 0.616646,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2267,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "desired skills",
+      "relevance": 0.818619,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3071,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "desired skills",
+      "relevance": 0.779261,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3114,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "great food",
+      "relevance": 0.644211,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4287,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "part of the Shiseido Group",
+      "relevance": 0.757227,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4284,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "part of the Shiseido Group",
+      "relevance": 0.756641,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1480,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ideal candidate",
+      "relevance": 0.658492,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1453,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ideal candidate",
+      "relevance": 0.661457,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2382,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Chefs of All Grades",
+      "relevance": 0.822665,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1654,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "full time",
+      "relevance": 0.645737,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 904,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.800138,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1796,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "prior consent",
+      "relevance": 0.593433,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 710,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Grill Ltdenry StLimerick",
+      "relevance": 0.742198,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2360,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "MULTI DROP DELIVERY DRIVERS Summary",
+      "relevance": 0.711708,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2914,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Cocktail Bartender",
+      "relevance": 0.67795,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 982,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details",
+      "relevance": 0.713057,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5114,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Capacity Delivery Team Lead",
+      "relevance": 0.606522,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 477,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Irish travel",
+      "relevance": 0.927325,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 825,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Previous experience",
+      "relevance": 0.698992,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2989,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Doyle CollectionThe Doyle Collection",
+      "relevance": 0.742431,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3590,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "successful technical delivery lead",
+      "relevance": 0.788937,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1378,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.75067,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3210,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kitchen Porters",
+      "relevance": 0.613325,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 568,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Tullamore Court Hotel",
+      "relevance": 0.856036,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1734,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Senior DevOps Engineer",
+      "relevance": 0.66458,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 437,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "previous experience",
+      "relevance": 0.898447,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2122,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "General Manager",
+      "relevance": 0.75489,
+      "count": 4
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1393,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.752072,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2079,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Restaurant Manager",
+      "relevance": 0.757907,
+      "count": 3
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1679,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "required standard",
+      "relevance": 0.7311,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2380,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Operations Manager",
+      "relevance": 0.780656,
+      "count": 3
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1529,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "patient meal service food",
+      "relevance": 0.761406,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1939,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "successful candidate",
+      "relevance": 0.764181,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4583,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "technology projects",
+      "relevance": 0.625902,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1488,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ongoing temporary work",
+      "relevance": 0.796192,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2182,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Adare Manor",
+      "relevance": 0.709907,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3882,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "days of work",
+      "relevance": 0.676171,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 927,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Years experience",
+      "relevance": 0.708964,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1068,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "EUROSPAR Kilmainham",
+      "relevance": 0.752997,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 944,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Years experience",
+      "relevance": 0.70672,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2841,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Doyle CollectionThe Doyle Collection",
+      "relevance": 0.76204,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2461,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "exciting time",
+      "relevance": 0.630849,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2878,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Doyle CollectionThe Doyle Collection",
+      "relevance": 0.694329,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2818,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Doyle CollectionThe Doyle Collection",
+      "relevance": 0.69702,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 924,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Years experience",
+      "relevance": 0.708312,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2111,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kitchen Stewards",
+      "relevance": 0.678398,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2694,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Doyle CollectionThe Doyle Collection",
+      "relevance": 0.755055,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2928,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Doyle CollectionThe Doyle Collection",
+      "relevance": 0.685789,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2712,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Doyle CollectionThe Doyle Collection",
+      "relevance": 0.754818,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2545,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Operations Manager",
+      "relevance": 0.786218,
+      "count": 4
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2332,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "enthusiastic wine",
+      "relevance": 0.71577,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2713,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Doyle CollectionThe Doyle Collection",
+      "relevance": 0.694169,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2780,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Doyle CollectionThe Doyle Collection",
+      "relevance": 0.67757,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2262,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Hotel Date",
+      "relevance": 0.66666,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3139,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "presence of a Porter",
+      "relevance": 0.69439,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1394,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "hour shift",
+      "relevance": 0.799853,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6990,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "related work",
+      "relevance": 0.595932,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1598,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "star hotel",
+      "relevance": 0.717057,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2108,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Adare Manor",
+      "relevance": 0.723563,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2661,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Yes Chef",
+      "relevance": 0.651995,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3083,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Yes Chef",
+      "relevance": 0.718385,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1480,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ideal candidate",
+      "relevance": 0.658492,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 944,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.785534,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1059,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.769933,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2656,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Night Chef",
+      "relevance": 0.675554,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2589,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "employed Delivery Driver",
+      "relevance": 0.78389,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1224,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "customers beverages",
+      "relevance": 0.730697,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2439,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ideal candidate",
+      "relevance": 0.645304,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1489,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "full time",
+      "relevance": 0.754487,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 982,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "food preparation processooking",
+      "relevance": 0.685174,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1496,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "sa bit",
+      "relevance": 0.704937,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1005,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ideal candidate",
+      "relevance": 0.937946,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5863,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Director of IT",
+      "relevance": 0.656993,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2324,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Hotel of the Year",
+      "relevance": 0.654576,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1289,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "four-hour shift",
+      "relevance": 0.737485,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1380,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "exceptional standard of customer careTo",
+      "relevance": 0.68586,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1850,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "indoor Swimming Pool",
+      "relevance": 0.597149,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1042,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ideal candidate",
+      "relevance": 0.92911,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2791,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "highest standards of genuine heartfelt service",
+      "relevance": 0.632015,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 468,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "senior management opportunity",
+      "relevance": 0.944396,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 747,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "experienced Head Chef",
+      "relevance": 0.822547,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2728,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Demi Chef de Partie",
+      "relevance": 0.725783,
+      "count": 3
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 588,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "2nd Year Commis Chef ust",
+      "relevance": 0.834306,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2594,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Chef de Cuisine",
+      "relevance": 0.703524,
+      "count": 3
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2373,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "existing Coffee Shops",
+      "relevance": 0.705304,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2757,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "warm welcome",
+      "relevance": 0.628745,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2541,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "successful applicants",
+      "relevance": 0.656259,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1303,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Customer Care",
+      "relevance": 0.849023,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1178,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "food production",
+      "relevance": 0.755671,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2022,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kitchen Stewards",
+      "relevance": 0.662808,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2913,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Executive Sous Chef",
+      "relevance": 0.658887,
+      "count": 3
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1313,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.718591,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1312,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Customer Care",
+      "relevance": 0.851045,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 835,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Food Service Team member",
+      "relevance": 0.831757,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1009,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.767694,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2180,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Beverage Manager",
+      "relevance": 0.716387,
+      "count": 4
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2252,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Hotel Date",
+      "relevance": 0.668569,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1707,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "sales rep",
+      "relevance": 0.845924,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3741,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "personal data",
+      "relevance": 0.704622,
+      "count": 5
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 676,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Full Time\ufeff\ufeff Job Location",
+      "relevance": 0.768037,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2790,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Beverage Supervisor The Kingsley Hotel",
+      "relevance": 0.697961,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1190,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "job Join Deliveroo",
+      "relevance": 0.733613,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4021,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Regulatory Delivery Excellence Manager",
+      "relevance": 0.723768,
+      "count": 4
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1888,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Accommodation Manager",
+      "relevance": 0.758438,
+      "count": 4
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3079,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Commercial IT Delivery team",
+      "relevance": 0.681026,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7368,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Team Tanzu",
+      "relevance": 0.719457,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1365,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "fast paced environmentAbility",
+      "relevance": 0.69921,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3129,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "German Market",
+      "relevance": 0.611159,
+      "count": 3
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2730,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "passion of our team membersbr",
+      "relevance": 0.596751,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2879,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Main Responsibilities",
+      "relevance": 0.651118,
+      "count": 3
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 819,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "exciting opportunity",
+      "relevance": 0.727318,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1105,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Hotel Bar ManagerHave control",
+      "relevance": 0.689907,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 512,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Share Person",
+      "relevance": 0.807594,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2602,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "technical teams",
+      "relevance": 0.785625,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1950,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "indoor Swimming Pool",
+      "relevance": 0.636077,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2085,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "services Staff Benefits",
+      "relevance": 0.605125,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 675,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "coming weeks",
+      "relevance": 0.779363,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 602,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "SPAR Clonakilty",
+      "relevance": 0.821012,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1348,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "interpersonal skillsStrong attention",
+      "relevance": 0.786326,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 819,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "exciting opportunity",
+      "relevance": 0.727318,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1282,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "highest standards of service",
+      "relevance": 0.803212,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1030,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "food preparation",
+      "relevance": 0.677837,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1142,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "banqueting department",
+      "relevance": 0.872764,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 507,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "excellent opportunity",
+      "relevance": 0.82802,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4625,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jurys Inn",
+      "relevance": 0.663982,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3642,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "sure staff",
+      "relevance": 0.671002,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 536,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Excellent customer service skills",
+      "relevance": 0.929021,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1059,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "good knowledge",
+      "relevance": 0.689729,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1391,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Company Benefits",
+      "relevance": 0.658705,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1059,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "good knowledge",
+      "relevance": 0.689729,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3032,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "benefits portalEmployee support service",
+      "relevance": 0.611848,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 845,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "local produce",
+      "relevance": 0.79693,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4637,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "regulatory requirements",
+      "relevance": 0.934066,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2469,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "good coffee",
+      "relevance": 0.771386,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1197,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "knowledge of food",
+      "relevance": 0.679308,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4711,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jurys Inn",
+      "relevance": 0.651754,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1180,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Inchydoney Island Lodge",
+      "relevance": 0.831561,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4877,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Jurys Inn",
+      "relevance": 0.661647,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1506,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "excellent opportunity",
+      "relevance": 0.722951,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 867,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Full Time Pastry Chef",
+      "relevance": 0.948947,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1575,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ideal candidate",
+      "relevance": 0.715487,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1980,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "excellent opportunity",
+      "relevance": 0.688454,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2524,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "excellent opportunity",
+      "relevance": 0.718674,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4975,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "People-related issues",
+      "relevance": 0.577673,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4207,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Regulatory Affairs",
+      "relevance": 0.73958,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1349,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "great work environment",
+      "relevance": 0.755785,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4449,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "VMware offices",
+      "relevance": 0.635179,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6751,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "BUSINESS SUMMARYThe VMware Tanzu Messaging",
+      "relevance": 0.718442,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4323,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Service Delivery",
+      "relevance": 0.623023,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5793,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "VMware\u2019s Global Talent Acquisition team",
+      "relevance": 0.683505,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4889,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "digital support experience",
+      "relevance": 0.648532,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3210,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Service Delivery Manager Location",
+      "relevance": 0.854321,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1618,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "important experiences",
+      "relevance": 0.662038,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1509,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Inchydoney Island Lodge",
+      "relevance": 0.886603,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 830,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.824354,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1190,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "job Join Deliveroo",
+      "relevance": 0.733613,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1092,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.791612,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 828,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.821453,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1618,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "important experiences",
+      "relevance": 0.662038,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1132,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.787572,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 849,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "O'Connors Cafe",
+      "relevance": 0.92031,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1115,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Commis Chef",
+      "relevance": 0.720883,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1042,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ideal candidate",
+      "relevance": 0.92911,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 850,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "O'Connors Cafe",
+      "relevance": 0.92031,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1399,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Manage DOA",
+      "relevance": 0.684552,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1622,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Job DescriptionAre",
+      "relevance": 0.712575,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 850,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "O'Connors Cafe",
+      "relevance": 0.92031,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1288,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "available Free Parking Requirements",
+      "relevance": 0.675069,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1399,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Manage DOA",
+      "relevance": 0.684552,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1669,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "initiative available Requirements",
+      "relevance": 0.652123,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1402,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "excellent reputation",
+      "relevance": 0.692882,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1510,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kitchen Porter Job",
+      "relevance": 0.793188,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1371,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Sales Director",
+      "relevance": 0.768393,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3085,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "B2B Telesales",
+      "relevance": 0.6155,
+      "count": 3
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1345,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Catering Assistant Job",
+      "relevance": 0.703069,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1594,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "COLONEL\u2019S FOOTSTEPS",
+      "relevance": 0.649082,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1495,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "sa bit",
+      "relevance": 0.704937,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2320,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Previous laboratory experience",
+      "relevance": 0.713348,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2519,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "River LeeThe River Lee",
+      "relevance": 0.738749,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2539,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "River LeeThe River Lee",
+      "relevance": 0.706163,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 796,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Share Breakfast Chef",
+      "relevance": 0.718088,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1364,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Company Benefits",
+      "relevance": 0.641348,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 656,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Blue Haven Hotel",
+      "relevance": 0.71679,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 885,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Pastry Chef",
+      "relevance": 0.850524,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1273,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "University College Cork",
+      "relevance": 0.701039,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 703,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Share Man Restaurant",
+      "relevance": 0.816253,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1232,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Company Benefits",
+      "relevance": 0.66309,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1785,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "work attitude",
+      "relevance": 0.685693,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 843,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ideal candidate",
+      "relevance": 0.686145,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1135,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "experienced Bar Supervisor",
+      "relevance": 0.692686,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1343,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "available Free Parking Requirements",
+      "relevance": 0.649676,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1907,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Key areas of responsibility Lead teams",
+      "relevance": 0.682391,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1247,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Company Benefits",
+      "relevance": 0.664852,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 946,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "food items",
+      "relevance": 0.779883,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6624,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "service delivery of all network projects",
+      "relevance": 0.669073,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3470,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Description Join Accenture Technology",
+      "relevance": 0.686815,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1412,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "National Craft CertificateDesirableAbility Skills",
+      "relevance": 0.598925,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 946,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "food items",
+      "relevance": 0.779883,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1310,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Eastgate Rd",
+      "relevance": 0.716339,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 976,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "food items",
+      "relevance": 0.771044,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2100,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "General Manager",
+      "relevance": 0.785772,
+      "count": 5
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 921,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "sales revenue",
+      "relevance": 0.665489,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2368,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Operations Manager",
+      "relevance": 0.759622,
+      "count": 3
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2495,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "kitchen areas",
+      "relevance": 0.695442,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2193,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "private tutoring",
+      "relevance": 0.668936,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1219,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "available Free Parking Requirements",
+      "relevance": 0.684052,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1540,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "highest quality of cuisine",
+      "relevance": 0.647301,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6786,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "senior management team",
+      "relevance": 0.683214,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2404,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "cleaning schedule",
+      "relevance": 0.622188,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6739,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "VMware officeSeeking",
+      "relevance": 0.672848,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4131,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Food preparation",
+      "relevance": 0.664889,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3828,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "VMware offices",
+      "relevance": 0.666126,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 677,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ideal candidate",
+      "relevance": 0.717093,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1392,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "family run Celtic Ross HoteI",
+      "relevance": 0.652892,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1217,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ideal candidate",
+      "relevance": 0.671456,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1092,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.791612,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1093,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.791612,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 931,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Share Night Porter",
+      "relevance": 0.701109,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2376,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "site equipment systems",
+      "relevance": 0.686323,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1562,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Application Details Share Eligibility",
+      "relevance": 0.664932,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1153,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "team player",
+      "relevance": 0.672894,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1789,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "case officer",
+      "relevance": 0.636849,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1673,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "work environment",
+      "relevance": 0.680217,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2006,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "successful candidate",
+      "relevance": 0.747117,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1297,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Positive attitude",
+      "relevance": 0.717784,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 724,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Job Description Share Night porter",
+      "relevance": 0.849511,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1861,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "best work",
+      "relevance": 0.68363,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2341,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "last number of years",
+      "relevance": 0.661691,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1454,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ideal candidate",
+      "relevance": 0.72328,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2451,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "years experience",
+      "relevance": 0.693289,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2325,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "General Manager",
+      "relevance": 0.77425,
+      "count": 5
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1449,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "delivery of patient care",
+      "relevance": 0.81986,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1156,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "fluent EnglishCan work",
+      "relevance": 0.753266,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1156,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "fluent EnglishCan work",
+      "relevance": 0.753266,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1968,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Junior Sous Chef",
+      "relevance": 0.65514,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1691,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "kitchen hand",
+      "relevance": 0.646899,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 986,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Brand Standards",
+      "relevance": 0.702222,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2522,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "work placeTo report",
+      "relevance": 0.596021,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2522,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "work placeTo report",
+      "relevance": 0.596021,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1968,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Junior Sous Chef",
+      "relevance": 0.65514,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 986,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Brand Standards",
+      "relevance": 0.702222,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1449,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "delivery of patient care",
+      "relevance": 0.81986,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1705,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "sales rep",
+      "relevance": 0.845958,
+      "count": 2
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 971,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "successful applicant",
+      "relevance": 0.763681,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 816,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "years experience",
+      "relevance": 0.726551,
+      "count": 1
+    }
+  ]
+},
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1001,
+    "features": 1
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "full time",
+      "relevance": 0.802206,
+      "count": 1
+    }
+  ]
+}]}
