@@ -5,7 +5,6 @@ import plotly.express as px
 import pandas as pd
 from dash import Dash
 from dash.dependencies import Input, Output
-from app import df
 
 white_button_style = {'background-color': 'white',
                       'color': 'black',
@@ -58,14 +57,8 @@ ad_id = [i['ad_id'] for i in data["ads"]]
 industry = [i['industry'] for i in data["ads"]]
 country = [i['country'] for i in data["ads"]]
 
-df2 = pd.DataFrame({'ad id': ad_id, 'risk score': risk_score})
-fig2 = px.bar(df2, x="ad id", y="risk score")
-
-df3 = pd.DataFrame({'industry' : industry})
-df4 = pd.DataFrame({'country' : country})
-
-df5 = pd.DataFrame({'risk score':risk_score, 'country' : country})
-
+df = pd.DataFrame({'ad id': ad_id, 'risk score': risk_score,'industry' : industry,'country' : country})
+fig2 = px.bar(df, x="ad id", y="risk score")
 
 app.layout = html.Div(style={'backgroundColor': colors['background']}, children=[
     html.H1('Human Trafficking - Job Advertisement', style={'color': colors['heading'], 'textAlign': 'center'}),
@@ -88,13 +81,13 @@ def render_content(tab):
             html.Div([
                 html.H5('Graph Example 1', style={'color': colors['tabBarColor'], 'textAlign': 'center'}),
                 dcc.Graph(id='g1',
-                          figure=px.bar(df2,x = "ad id", y="risk score", title='Risk score Bar Chart', color = 'risk score', color_continuous_scale=px.colors.sequential.Viridis))
+                          figure=px.bar(df,x = "ad id", y="risk score", title='Risk score Bar Chart', color = 'risk score', color_continuous_scale=px.colors.sequential.Viridis))
             ], className="six columns"),
 
             html.Div([
                 html.H5('Graph Example 2', style={'color': colors['tabBarColor'], 'textAlign': 'center'}),
                 dcc.Graph(id='g2',
-                          figure=px.pie(df5, values='risk score', names='country', color_discrete_sequence=px.colors.sequential.Viridis)
+                          figure=px.pie(df, values='risk score', names='country', color_discrete_sequence=px.colors.sequential.Viridis)
                           )
             ], className="six columns"),
 
