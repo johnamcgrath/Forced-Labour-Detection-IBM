@@ -132,31 +132,273 @@ def render_content(tab):
 
             html.H5('sp', style={'color': colors['background']}),
 
-            dcc.DatePickerRange(
-                start_date_placeholder_text="Start Period",
-                end_date_placeholder_text="End Period",
-                calendar_orientation='vertical',
-            ),
-            html.H3('       heelo    ', style={'color': colors['background']}),
-            html.H3('      hi     ', style={'color': colors['background']}),
-            html.H3('     bonjour      ', style={'color': colors['background']}),
-            html.H3('     hola      ', style={'color': colors['background']}),
-            html.H3('   hi        ', style={'color': colors['background']}),
-            html.H3('    h       ', style={'color': colors['background']}),
-            html.H3('     h      ', style={'color': colors['background']}),
-            html.H3('     h      ', style={'color': colors['background']}),
-            html.H3('       h    ', style={'color': colors['background']}),
-            html.H3('      h     ', style={'color': colors['background']}),
-            html.H3('     h      ', style={'color': colors['background']}),
-            html.H3('     h      ', style={'color': colors['background']}),
+
+            html.H4('       heelo    ', style={'color': colors['background']}),
+            html.H4('      hi     ', style={'color': colors['background']}),
+
+            html.A([
+                html.Img(
+                    src='https://static.wixstatic.com/media/dfe11e_c8fed92f4786443a930fe2092943c893~mv2.png/v1/fill/w_570,h_104,al_c,usm_0.66_1.00_0.01,enc_auto/TAH%20Logo%20White.png',
+                    style={
+                        'height': '2%',
+                        'width': '10%',
+                        'float': 'centre',
+                        'position': 'centre',
+                        'padding-top': 150,
+                        'padding-right': 0
+                    })
+            ], href='https://www.traffikanalysis.org/'),
 
         ])
 
     elif tab == 'tab-2':
         return html.Div([
+            dcc.DatePickerRange(
+                start_date_placeholder_text="Start Period",
+                end_date_placeholder_text="End Period",
+                calendar_orientation='vertical',
+            ),
 
 
         ]),
+
+    elif tab == 'tab-4':
+        return html.Div([
+
+            html.H3('    h       ', style={'color': colors['background']}),
+            html.H3('     h      ', style={'color': colors['background']}),
+            html.H3('    h       ', style={'color': colors['background']}),
+            html.H3('     h      ', style={'color': colors['background']}),
+            html.H3('    h       ', style={'color': colors['background']}),
+            html.H3('     h      ', style={'color': colors['background']}),
+            html.H3('    h       ', style={'color': colors['background']}),
+            html.H3('     h      ', style={'color': colors['background']}),
+            html.H3('    h       ', style={'color': colors['background']}),
+            html.H3('     h      ', style={'color': colors['background']}),
+            html.H3('    h       ', style={'color': colors['background']}),
+            html.H1('    h       ', style={'color': colors['background']}),
+            html.H4('Locanto Links : ', style={'color': colors['tabBarColor'], 'textAlign': 'center'}),
+
+            html.A([
+                html.Img(
+                    src='https://t4.ftcdn.net/jpg/00/02/09/19/360_F_2091924_rxCayi6LskHJpibzEXCEYVTZsz1ust.jpg',
+                    style={
+                        'height': '2%',
+                        'width': '4%',
+                        'float': 'centre',
+                        'position': 'centre',
+                        'padding-top': 8,
+                        'padding-right': 0
+                    })
+            ], href='https://www.locanto.ie/'),
+
+            html.A([
+                html.Img(
+                    src='https://us.123rf.com/450wm/amarosy/amarosy1505/amarosy150500274/40607684-map-of-great-britain-cut-out-with-uk-british-union-jack-flag-on-black-background-.jpg',
+                    style={
+                        'height': '2%',
+                        'width': '3%',
+                        'float': 'centre',
+                        'position': 'centre',
+                        'padding-top': 8,
+                        'padding-right': 0
+                    })
+            ], href='https://www.locanto.co.uk/'),
+
+            html.A([
+                html.Img(
+                    src='https://ak.picdn.net/shutterstock/videos/1065155461/thumb/7.jpg',
+                    style={
+                        'height': '2%',
+                        'width': '7.5%',
+                        'float': 'centre',
+                        'position': 'centre',
+                        'padding-top': 8,
+                        'padding-right': 0
+                    })
+            ], href='https://www.locanto.com/'),
+            html.A([
+                html.Img(
+                    src='https://swall.teahub.io/photos/small/196-1964298_australia-flag-free-png-image-australian-flag-on.png',
+                    style={
+                        'height': '2%',
+                        'width': '5%',
+                        'float': 'centre',
+                        'position': 'centre',
+                        'padding-top': 8,
+                        'padding-right': 0
+                    })
+            ], href='https://www.locanto.com.au/'),
+            html.A([
+                html.Img(
+                    src='https://www.desktopbackground.org/p/2015/07/30/987596_8-best-photos-of-china-flag-black-and-white-black-and-white-qing_975x820_h.png',
+                    style={
+                        'height': '2%',
+                        'width': '5%',
+                        'float': 'centre',
+                        'position': 'centre',
+                        'padding-top': 8,
+                        'padding-right': 0
+                    })
+            ], href='https://www.locanto.cn/'),
+            html.A([
+                html.Img(
+                    src='https://ak.picdn.net/shutterstock/videos/3417464/thumb/1.jpg',
+                    style={
+                        'height': '2%',
+                        'width': '8%',
+                        'float': 'centre',
+                        'position': 'centre',
+                        'padding-top': 8,
+                        'padding-right': 0
+                    })
+            ], href='https://www.locanto.ca/'),
+            html.A([
+                html.Img(
+                    src='https://c8.alamy.com/zooms/9/2496a7326f5f4711b7ca586a88234798/2b4nc93.jpg',
+                    style={
+                        'height': '2%',
+                        'width': '4%',
+                        'float': 'centre',
+                        'position': 'centre',
+                        'padding-top': 8,
+                        'padding-right': 0
+                    })
+            ], href='https://www.in.locan.to/'),
+            html.A([
+                html.Img(
+                    src='https://img.freepik.com/free-vector/mexico-with-flag-vector-map-black-background_43249-1045.jpg',
+                    style={
+                        'height': '2%',
+                        'width': '5%',
+                        'float': 'centre',
+                        'position': 'centre',
+                        'padding-top': 8,
+                        'padding-right': 0
+                    })
+            ], href='https://www.locanto.com.mx/'),
+            html.A([
+                html.Img(
+                    src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM7IERMyKn6RBi90e24NeBRJaANELJvYEOntyp_EM_axwk7ik-TYeXcRzmDcj7HYavR30&usqp=CAU',
+                    style={
+                        'height': '2%',
+                        'width': '5%',
+                        'float': 'centre',
+                        'position': 'centre',
+                        'padding-top': 8,
+                        'padding-right': 0
+                    })
+            ], href='https://www.locanto.co.za/'),
+            html.A([
+                html.Img(
+                    src='https://ak.picdn.net/shutterstock/videos/1061478250/thumb/1.jpg?ip=x480',
+                    style={
+                        'height': '2%',
+                        'width': '8%',
+                        'float': 'centre',
+                        'position': 'centre',
+                        'padding-top': 8,
+                        'padding-right': 0
+                    })
+            ], href='https://www.locanto.jp/'),
+            html.A([
+                html.Img(
+                    src='https://thumbs.dreamstime.com/b/spain-flag-performed-color-smoke-black-background-abstract-symbol-spain-flag-performed-color-smoke-black-177488486.jpg',
+                    style={
+                        'height': '4%',
+                        'width': '5%',
+                        'float': 'centre',
+                        'position': 'left',
+                        'padding-top': 8,
+                        'padding-right': 0
+                    })
+            ], href='https://www.locanto.es/'),
+            html.A([
+                html.Img(
+                    src='https://ak.picdn.net/shutterstock/videos/23538631/thumb/1.jpg',
+                    style={
+                        'height': '2%',
+                        'width': '5%',
+                        'float': 'centre',
+                        'position': 'left',
+                        'padding-top': 8,
+                        'padding-right': 0
+                    })
+            ], href='https://www.locanto.fr/'),
+            html.A([
+                html.Img(
+                    src='https://ak.picdn.net/shutterstock/videos/1059796232/thumb/1.jpg?ip=x480',
+                    style={
+                        'height': '2%',
+                        'width': '5%',
+                        'float': 'centre',
+                        'position': 'left',
+                        'padding-top': 8,
+                        'padding-right': 0
+                    })
+            ], href='https://www.locanto.de/'),
+            html.A([
+                html.Img(
+                    src='https://thumbs.dreamstime.com/b/netherlands-flag-performed-color-smoke-black-background-abstract-symbol-177488552.jpg',
+                    style={
+                        'height': '2%',
+                        'width': '5%',
+                        'float': 'centre',
+                        'position': 'left',
+                        'padding-top': 8,
+                        'padding-right': 0
+                    })
+            ], href='https://www.locanto.nl/'),
+            html.A([
+                html.Img(
+                    src='https://ak.picdn.net/shutterstock/videos/1005046/thumb/3.jpg',
+                    style={
+                        'height': '2%',
+                        'width': '5%',
+                        'float': 'centre',
+                        'position': 'left',
+                        'padding-top': 8,
+                        'padding-right': 0
+                    })
+            ], href='https://www.locanto.ch/'),
+            html.A([
+                html.Img(
+                    src='https://ak.picdn.net/shutterstock/videos/17902525/thumb/1.jpg?ip=x480',
+                    style={
+                        'height': '2%',
+                        'width': '5%',
+                        'float': 'centre',
+                        'position': 'left',
+                        'padding-top': 8,
+                        'padding-right': 0
+                    })
+            ], href='https://www.th.locanto.asia/'),
+            html.A([
+                html.Img(
+                    src='https://ak.picdn.net/shutterstock/videos/1005064/thumb/6.jpg',
+                    style={
+                        'height': '2%',
+                        'width': '7%',
+                        'float': 'centre',
+                        'position': 'left',
+                        'padding-top': 8,
+                        'padding-right': 0
+                    })
+            ], href='https://www.locanto.co.id/'),
+            html.A([
+                html.Img(
+                    src='https://media.istockphoto.com/videos/animated-arrow-chalk-stroke-on-a-black-background-ideal-for-use-as-a-video-id1127767288?s=640x640',
+                    style={
+                        'height': '2%',
+                        'width': '7%',
+                        'float': 'centre',
+                        'position': 'left',
+                        'padding-top': 8,
+                        'padding-right': 0
+                    })
+            ], href='https://www.locanto.info/'),
+        ])
+
 
 if __name__ == '__main__':
     app.run_server(debug=True)
