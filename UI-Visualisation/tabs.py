@@ -52,10 +52,6 @@ df4 = pd.DataFrame({'country' : country})
 
 df5 = pd.DataFrame({'risk score':risk_score, 'country' : country})
 
-df = px.data.gapminder().query("year == 2007").query("continent == 'Europe'")
-df.loc[df['pop'] < 2.e6, 'country'] = 'Other countries'  # Represent only large countries
-figure = px.pie(df, values='pop', names='country', title='Population of European continent')
-
 
 app.layout = html.Div(style={'backgroundColor': colors['background']}, children=[
     html.H1('Human Trafficking - Job Advertisement', style={'color': colors['heading'], 'textAlign': 'center'}),
@@ -76,16 +72,25 @@ def render_content(tab):
             html.Div([
                 html.H5('Graph Example 1', style={'color': colors['tabBarColor'], 'textAlign': 'center'}),
                 dcc.Graph(id='g1',
-                          figure=px.bar(df2,x = "ad id", y="risk score", title='Risk score Bar Chart', color = 'risk score', color_continuous_scale=px.colors.sequential.Viridis)
-                          )
+                          figure=px.bar(df2,x = "ad id", y="risk score", title='Risk score Bar Chart', color = 'risk score', color_continuous_scale=px.colors.sequential.Viridis))
             ], className="six columns"),
 
             html.Div([
                 html.H5('Graph Example 2', style={'color': colors['tabBarColor'], 'textAlign': 'center'}),
                 dcc.Graph(id='g2',
-                          figure=px.pie(df5, values='risk score', names='country', color_discrete_sequence=px.colors.sequential.RdBu)
+                          figure=px.pie(df5, values='risk score', names='country', color_discrete_sequence=px.colors.sequential.Viridis)
                           )
             ], className="six columns"),
+
+            html.Div([
+                html.H5('Graph Example 3', style={'color': colors['tabBarColor'], 'textAlign': 'center'}),
+                dcc.Graph(id='g3',
+                          figure = px.scatter_geo(df5, locations="country", color='country',
+                                         hover_name="country", size="risk score",
+                                         projection="natural earth", scope = "europe",
+                                                  width = int('50')))
+            ]),
+
 
             html.H5('sp', style={'color': colors['background']}),
 
@@ -116,16 +121,29 @@ def render_content(tab):
 
             html.H5('Industry', style={'color': colors['tabBarColor']}),
             html.H5('     ', style={'color': colors['background']}),
-            dcc.Dropdown(df3.industry.unique(), id='pandas-dropdown-1'),
+            dcc.Dropdown(df3.industry.unique(), id='pandas-dropdown-1', style={"width": "50%"}),
 
             html.H3('   ', style={'color': colors['background']}),
 
             html.H5('Country', style={'color': colors['tabBarColor']}),
             html.H5('     ', style={'color': colors['background']}),
-            dcc.Dropdown(df4.country.unique(), id='pandas-dropdown-2'),
+            dcc.Dropdown(df4.country.unique(), id='pandas-dropdown-2', style={"width": "50%"}),
             html.Div(id='pandas-output-container-1'),
 
-            ]),
+            html.H3('       heelo    ', style={'color': colors['background']}),
+            html.H3('      hi     ', style={'color': colors['background']}),
+            html.H3('     bonjour      ', style={'color': colors['background']}),
+            html.H3('     hola      ', style={'color': colors['background']}),
+            html.H3('   hi        ', style={'color': colors['background']}),
+            html.H3('    h       ', style={'color': colors['background']}),
+            html.H3('     h      ', style={'color': colors['background']}),
+            html.H3('     h      ', style={'color': colors['background']}),
+            html.H3('       h    ', style={'color': colors['background']}),
+            html.H3('      h     ', style={'color': colors['background']}),
+            html.H3('     h      ', style={'color': colors['background']}),
+            html.H3('     h      ', style={'color': colors['background']}),
+
+        ]),
 
 
 
