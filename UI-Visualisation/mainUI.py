@@ -74,7 +74,6 @@ app.layout = html.Div(style={'backgroundColor': colors['background']}, children=
         dcc.Tab(label='Industry', value='tab-2', style=tab_style, selected_style=tab_selected_style),
         dcc.Tab(label='Country', value='tab-3', style=tab_style, selected_style=tab_selected_style),
         dcc.Tab(label='Locanto Link', value='tab-4', style=tab_style, selected_style=tab_selected_style),
-        dcc.Tab(label='About & Contact', value='tab-5', style=tab_style, selected_style=tab_selected_style),
     ], style=tabs_styles),
     html.Div(id='tabs-content')
 ])
