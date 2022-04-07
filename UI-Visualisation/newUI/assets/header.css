@@ -36,3 +36,9 @@ body {
     font-size : 15px;
     text-align: center;
 }
+
+.normal-text .normal-text--title{
+    color : dimgray;
+    font-size : 18px;
+    text-align: center;
+}

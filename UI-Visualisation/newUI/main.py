@@ -1,3 +1,4 @@
+import base64
 import json
 from dash import html
 from dash import dcc
@@ -13,6 +14,9 @@ colors = {
 
 with open('dummyData.json') as json_file:
     data_two = json.load(json_file)
+
+image_filename = 'wordcloud.png'  # replace with your own image
+encoded_image = base64.b64encode(open(image_filename, 'rb').read())
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
@@ -168,6 +172,13 @@ app.layout = html.Div(style={'backgroundColor': colors['light_grey']}, children=
             ),
         ], className="six columns"),
     ], className="row"),
+
+html.Div(
+        className="normal-text",
+        children=[
+            html.Div('Risky Words', className="normal-text--title"),
+            ]),
+        html.Img(src='data:image/png;base64,{}'.format(encoded_image.decode()), style={'height':'0%', 'width':'70%', 'padding-left' : 280})
 ])
 
 if __name__ == '__main__':
