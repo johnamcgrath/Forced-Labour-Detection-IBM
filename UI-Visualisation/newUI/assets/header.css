@@ -1,0 +1,38 @@
+.app-header {
+    height: 240px;
+    background-color: white;
+    border-bottom: thin lightgrey solid;
+}
+
+body {
+    margin: 0;
+}
+
+.app-header .app-header--title {
+    font-weight : bold;
+    line-height: 40px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.app-header .app-space--title {
+    color: white;
+    font-weight : bold;
+    line-height: 40px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.app-header .app-about--title
+{
+    color: gray;
+    line-height: 40px;
+    font-size : 20px;
+    text-align: center;
+}
+.app-header .app-description--title{
+    color: gray;
+    line-height : 15px;
+    font-size : 15px;
+    text-align: center;
+}
