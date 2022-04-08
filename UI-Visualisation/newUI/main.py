@@ -48,7 +48,7 @@ newJob_title = [i['Job_title']['title'] for i in data_two["ads"]]
 
 my_list = [0.94, 0.98]
 
-fig4 = px.bar(top_5, x="job title", y="risk score",range_y=my_list, color = 'risk score', color_continuous_scale=px.colors.sequential.Magma)
+fig4 = px.bar(top_5, x="job title", y="risk score",hover_data = ['text'],range_y=my_list, color = 'risk score', color_continuous_scale=px.colors.sequential.Magma)
 fig4.update_layout(paper_bgcolor='#D3D3D3')
 fig4.update_layout(plot_bgcolor='#F5F5F5')
 fig4.update_layout(title_text='Top 5 ads and their Job Title', title_x=0.5)
@@ -66,7 +66,7 @@ fig.update_layout(paper_bgcolor='#D3D3D3')
 fig.update_layout(plot_bgcolor='#F5F5F5')
 fig.update_layout(title_text='Keyword in Advertisement', title_x=0.5)
 
-fig3 = px.bar(df2, x="ad id", y="risk score", color='risk score', color_continuous_scale=px.colors.sequential.Magma)
+fig3 = px.bar(df2, x="ad id", y="risk score",hover_data = ['text'], color='risk score', color_continuous_scale=px.colors.sequential.Magma)
 fig3.update_layout(paper_bgcolor='#D3D3D3')
 fig3.update_layout(plot_bgcolor='#F5F5F5')
 fig3.update_layout(title_text='Risk score Bar Chart', title_x=0.5)
