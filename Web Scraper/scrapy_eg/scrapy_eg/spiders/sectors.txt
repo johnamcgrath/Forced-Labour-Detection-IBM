@@ -6,3 +6,5 @@ Part Time (_PT):                      341 ads (max)
 Services (_S):                        771 ads (max)
 
 Total:                                9892 ads
+
+NOTE: scraper has been updated, data in above files does not have date or sector fields. See locanto_demo.csv
